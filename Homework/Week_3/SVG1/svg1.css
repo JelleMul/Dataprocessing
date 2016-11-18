@@ -1,0 +1,24 @@
+/* Jelle Mul
+ 11402148 */
+
+/* continent color */
+.continent
+{
+
+}
+
+/* country colors */
+#fra
+{
+  fill: yellow;
+}
+
+#gre
+{
+  fill: blue;
+}
+
+#den
+{
+  fill: purple;
+}
