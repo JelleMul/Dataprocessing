@@ -1,0 +1,44 @@
+/* Jelle Mul
+ 11402148 */
+
+/* legend color and format */
+#color1 {
+  background-color: #b30000;
+  height: 50px;
+  width: 75px;
+}
+
+/* legend color and format */
+#color2 {
+  background-color: #e34a33;
+  height: 50px;
+}
+
+/* legend color and format */
+#color3 {
+  background-color: #fc8d59;
+  height: 50px;
+}
+
+/* legend color and format */
+#color4 {
+  background-color: #fdcc8a;
+  height: 50px;
+}
+
+/* legend color and format */
+#color5 {
+  background-color: #fef0d9;
+  height: 50px;
+}
+
+/* tekst format in table */
+#tekst {
+  text-indent: 50px;
+  width: 200px
+}
+
+/* table */
+table {
+  width: 800px;
+}
