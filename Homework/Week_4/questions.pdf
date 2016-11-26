@@ -1,0 +1,15 @@
+1. het maakt gebruik van het svg element van een pagina, selectAll selecteert alle elementen die voldoen aan de meegeven selector, waarna het mogelijk is om deze aan te passen. Select selecteert bijvoorbeeld het svg elemement of de body waarna vervolgens extra zaken hieraan toegevoegd kunnen worden.
+2. d refers to the bound data, tussen de {} staat de functie die de data omzet, bijvoor naar de straal van de cirkel. i is de index van een element.
+3. d3.select(".chart")
+  .selectAll("div")
+    .data(data)
+  .enter().append("div")
+    .attr("class", "barChart1")
+    .style("width", function(d) { return x(d) + "px"; })
+    .text(function(d) { return d; });
+
+    bar.append("rect")
+      .attr("class", "barChart2")
+4 append is het toevoegen van een element, update is een element vernieuwen, enter vertegenwoordigd de nog elementen die nog moeten worden toegevoegd, exit is om nodes te verwijderen die niet meer nodig zijn.
+5.SVG heeft meer visuele mogelijkheden dan html
+6. De rechthoekige balken zijn toegevoed, die corresponderen met de grootte van de data.
