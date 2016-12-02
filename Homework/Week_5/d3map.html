@@ -1,0 +1,32 @@
+<!--Jelle Mul
+11402148 -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>D3 Map</title>
+    <link rel="stylesheet" type="text/css" href="d3map.css"/>
+  </head>
+  <body>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script  type="text/javascript" src="datamaps.world.hires.min.js"></script>
+    <div id="container">
+    </div>
+    <script src="d3map.js"></script>
+    <p id= "bron">bron: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population</p>
+    <div id="info">
+      <p>
+        De visualisatie laat de populatie data zien van verschillende landen. Wanneer er over een land wordt bewogen met de muis, highlight de grens van dat land
+        en verschijnt er een textvak met daarin de naam van het land en het aantal inwoners met "1000 seperators". De keuze om enkel de grens te hightlighten is
+        zodat het land op bais van kleur nog steeds kan worden vergeleken met omliggende landen als de muis er opstaat.
+      </p>
+      <p>
+        De kleurkeuze is gemaakt met behulp van colorbrewer, echter zijn de kleuren een gradient met een "sqrt scale", aangezien dan een beter verschil is te zien tussen
+        verschillende landen en beter correleert met de data. Er zijn namelijk veel meer landen in de eerste helft van de absolute data dan in de tweede helft, door het gebruik van
+        de wortel functie geeft dit een betere verdeling van de data over de kleuren. Dit lijkt potentieel tot het risico dat de data niet goed kan worden geinterpreteerd, echter
+        zou dit moeten worden voorkomen door de legenda
+      </p>
+    </div>
+  </body>
+</html>

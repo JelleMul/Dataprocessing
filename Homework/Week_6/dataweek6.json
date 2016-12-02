@@ -1,0 +1,4381 @@
+[{
+	"date": "20140101",
+	"mintemp": "48",
+	"maxtemp": "99",
+	"location": "260",
+	"avgtemp": "74"
+}, {
+	"date": "20140102",
+	"mintemp": "55",
+	"maxtemp": "103",
+	"location": "260",
+	"avgtemp": "79"
+}, {
+	"date": "20140103",
+	"mintemp": "56",
+	"maxtemp": "122",
+	"location": "260",
+	"avgtemp": "89"
+}, {
+	"date": "20140104",
+	"mintemp": "59",
+	"maxtemp": "93",
+	"location": "260",
+	"avgtemp": "76"
+}, {
+	"date": "20140105",
+	"mintemp": "41",
+	"maxtemp": "84",
+	"location": "260",
+	"avgtemp": "63"
+}, {
+	"date": "20140106",
+	"mintemp": "70",
+	"maxtemp": "145",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20140107",
+	"mintemp": "94",
+	"maxtemp": "123",
+	"location": "260",
+	"avgtemp": "109"
+}, {
+	"date": "20140108",
+	"mintemp": "62",
+	"maxtemp": "100",
+	"location": "260",
+	"avgtemp": "81"
+}, {
+	"date": "20140109",
+	"mintemp": "68",
+	"maxtemp": "121",
+	"location": "260",
+	"avgtemp": "95"
+}, {
+	"date": "20140110",
+	"mintemp": "46",
+	"maxtemp": "88",
+	"location": "260",
+	"avgtemp": "67"
+}, {
+	"date": "20140111",
+	"mintemp": "33",
+	"maxtemp": "78",
+	"location": "260",
+	"avgtemp": "56"
+}, {
+	"date": "20140112",
+	"mintemp": "-20",
+	"maxtemp": "62",
+	"location": "260",
+	"avgtemp": "21"
+}, {
+	"date": "20140113",
+	"mintemp": "22",
+	"maxtemp": "99",
+	"location": "260",
+	"avgtemp": "61"
+}, {
+	"date": "20140114",
+	"mintemp": "22",
+	"maxtemp": "71",
+	"location": "260",
+	"avgtemp": "47"
+}, {
+	"date": "20140115",
+	"mintemp": "24",
+	"maxtemp": "64",
+	"location": "260",
+	"avgtemp": "44"
+}, {
+	"date": "20140116",
+	"mintemp": "59",
+	"maxtemp": "89",
+	"location": "260",
+	"avgtemp": "74"
+}, {
+	"date": "20140117",
+	"mintemp": "61",
+	"maxtemp": "90",
+	"location": "260",
+	"avgtemp": "76"
+}, {
+	"date": "20140118",
+	"mintemp": "55",
+	"maxtemp": "86",
+	"location": "260",
+	"avgtemp": "71"
+}, {
+	"date": "20140119",
+	"mintemp": "46",
+	"maxtemp": "71",
+	"location": "260",
+	"avgtemp": "59"
+}, {
+	"date": "20140120",
+	"mintemp": "14",
+	"maxtemp": "60",
+	"location": "260",
+	"avgtemp": "37"
+}, {
+	"date": "20140121",
+	"mintemp": "17",
+	"maxtemp": "54",
+	"location": "260",
+	"avgtemp": "36"
+}, {
+	"date": "20140122",
+	"mintemp": "20",
+	"maxtemp": "43",
+	"location": "260",
+	"avgtemp": "32"
+}, {
+	"date": "20140123",
+	"mintemp": "16",
+	"maxtemp": "52",
+	"location": "260",
+	"avgtemp": "34"
+}, {
+	"date": "20140124",
+	"mintemp": "23",
+	"maxtemp": "67",
+	"location": "260",
+	"avgtemp": "45"
+}, {
+	"date": "20140125",
+	"mintemp": "24",
+	"maxtemp": "63",
+	"location": "260",
+	"avgtemp": "44"
+}, {
+	"date": "20140126",
+	"mintemp": "37",
+	"maxtemp": "68",
+	"location": "260",
+	"avgtemp": "53"
+}, {
+	"date": "20140127",
+	"mintemp": "25",
+	"maxtemp": "62",
+	"location": "260",
+	"avgtemp": "44"
+}, {
+	"date": "20140128",
+	"mintemp": "23",
+	"maxtemp": "68",
+	"location": "260",
+	"avgtemp": "46"
+}, {
+	"date": "20140129",
+	"mintemp": "-21",
+	"maxtemp": "25",
+	"location": "260",
+	"avgtemp": "2"
+}, {
+	"date": "20140130",
+	"mintemp": "-24",
+	"maxtemp": "50",
+	"location": "260",
+	"avgtemp": "13"
+}, {
+	"date": "20140131",
+	"mintemp": "-30",
+	"maxtemp": "74",
+	"location": "260",
+	"avgtemp": "22"
+}, {
+	"date": "20140201",
+	"mintemp": "43",
+	"maxtemp": "84",
+	"location": "260",
+	"avgtemp": "64"
+}, {
+	"date": "20140202",
+	"mintemp": "26",
+	"maxtemp": "80",
+	"location": "260",
+	"avgtemp": "53"
+}, {
+	"date": "20140203",
+	"mintemp": "5",
+	"maxtemp": "82",
+	"location": "260",
+	"avgtemp": "44"
+}, {
+	"date": "20140204",
+	"mintemp": "23",
+	"maxtemp": "94",
+	"location": "260",
+	"avgtemp": "59"
+}, {
+	"date": "20140205",
+	"mintemp": "40",
+	"maxtemp": "104",
+	"location": "260",
+	"avgtemp": "72"
+}, {
+	"date": "20140206",
+	"mintemp": "57",
+	"maxtemp": "96",
+	"location": "260",
+	"avgtemp": "77"
+}, {
+	"date": "20140207",
+	"mintemp": "44",
+	"maxtemp": "103",
+	"location": "260",
+	"avgtemp": "74"
+}, {
+	"date": "20140208",
+	"mintemp": "42",
+	"maxtemp": "90",
+	"location": "260",
+	"avgtemp": "66"
+}, {
+	"date": "20140209",
+	"mintemp": "44",
+	"maxtemp": "76",
+	"location": "260",
+	"avgtemp": "60"
+}, {
+	"date": "20140210",
+	"mintemp": "23",
+	"maxtemp": "90",
+	"location": "260",
+	"avgtemp": "57"
+}, {
+	"date": "20140211",
+	"mintemp": "39",
+	"maxtemp": "83",
+	"location": "260",
+	"avgtemp": "61"
+}, {
+	"date": "20140212",
+	"mintemp": "31",
+	"maxtemp": "91",
+	"location": "260",
+	"avgtemp": "61"
+}, {
+	"date": "20140213",
+	"mintemp": "31",
+	"maxtemp": "69",
+	"location": "260",
+	"avgtemp": "50"
+}, {
+	"date": "20140214",
+	"mintemp": "21",
+	"maxtemp": "88",
+	"location": "260",
+	"avgtemp": "55"
+}, {
+	"date": "20140215",
+	"mintemp": "75",
+	"maxtemp": "134",
+	"location": "260",
+	"avgtemp": "105"
+}, {
+	"date": "20140216",
+	"mintemp": "-1",
+	"maxtemp": "94",
+	"location": "260",
+	"avgtemp": "47"
+}, {
+	"date": "20140217",
+	"mintemp": "3",
+	"maxtemp": "104",
+	"location": "260",
+	"avgtemp": "54"
+}, {
+	"date": "20140218",
+	"mintemp": "35",
+	"maxtemp": "80",
+	"location": "260",
+	"avgtemp": "58"
+}, {
+	"date": "20140219",
+	"mintemp": "61",
+	"maxtemp": "110",
+	"location": "260",
+	"avgtemp": "86"
+}, {
+	"date": "20140220",
+	"mintemp": "54",
+	"maxtemp": "100",
+	"location": "260",
+	"avgtemp": "77"
+}, {
+	"date": "20140221",
+	"mintemp": "46",
+	"maxtemp": "103",
+	"location": "260",
+	"avgtemp": "75"
+}, {
+	"date": "20140222",
+	"mintemp": "42",
+	"maxtemp": "103",
+	"location": "260",
+	"avgtemp": "73"
+}, {
+	"date": "20140223",
+	"mintemp": "37",
+	"maxtemp": "118",
+	"location": "260",
+	"avgtemp": "78"
+}, {
+	"date": "20140224",
+	"mintemp": "38",
+	"maxtemp": "126",
+	"location": "260",
+	"avgtemp": "82"
+}, {
+	"date": "20140225",
+	"mintemp": "54",
+	"maxtemp": "126",
+	"location": "260",
+	"avgtemp": "90"
+}, {
+	"date": "20140226",
+	"mintemp": "37",
+	"maxtemp": "111",
+	"location": "260",
+	"avgtemp": "74"
+}, {
+	"date": "20140227",
+	"mintemp": "20",
+	"maxtemp": "78",
+	"location": "260",
+	"avgtemp": "49"
+}, {
+	"date": "20140228",
+	"mintemp": "19",
+	"maxtemp": "85",
+	"location": "260",
+	"avgtemp": "52"
+}, {
+	"date": "20140301",
+	"mintemp": "43",
+	"maxtemp": "82",
+	"location": "260",
+	"avgtemp": "63"
+}, {
+	"date": "20140302",
+	"mintemp": "26",
+	"maxtemp": "98",
+	"location": "260",
+	"avgtemp": "62"
+}, {
+	"date": "20140303",
+	"mintemp": "6",
+	"maxtemp": "99",
+	"location": "260",
+	"avgtemp": "53"
+}, {
+	"date": "20140304",
+	"mintemp": "-1",
+	"maxtemp": "107",
+	"location": "260",
+	"avgtemp": "53"
+}, {
+	"date": "20140305",
+	"mintemp": "-5",
+	"maxtemp": "126",
+	"location": "260",
+	"avgtemp": "61"
+}, {
+	"date": "20140306",
+	"mintemp": "-7",
+	"maxtemp": "137",
+	"location": "260",
+	"avgtemp": "65"
+}, {
+	"date": "20140307",
+	"mintemp": "27",
+	"maxtemp": "128",
+	"location": "260",
+	"avgtemp": "78"
+}, {
+	"date": "20140308",
+	"mintemp": "-15",
+	"maxtemp": "160",
+	"location": "260",
+	"avgtemp": "73"
+}, {
+	"date": "20140309",
+	"mintemp": "41",
+	"maxtemp": "195",
+	"location": "260",
+	"avgtemp": "118"
+}, {
+	"date": "20140310",
+	"mintemp": "15",
+	"maxtemp": "180",
+	"location": "260",
+	"avgtemp": "98"
+}, {
+	"date": "20140311",
+	"mintemp": "61",
+	"maxtemp": "144",
+	"location": "260",
+	"avgtemp": "103"
+}, {
+	"date": "20140312",
+	"mintemp": "18",
+	"maxtemp": "168",
+	"location": "260",
+	"avgtemp": "93"
+}, {
+	"date": "20140313",
+	"mintemp": "-7",
+	"maxtemp": "168",
+	"location": "260",
+	"avgtemp": "81"
+}, {
+	"date": "20140314",
+	"mintemp": "-1",
+	"maxtemp": "120",
+	"location": "260",
+	"avgtemp": "60"
+}, {
+	"date": "20140315",
+	"mintemp": "86",
+	"maxtemp": "118",
+	"location": "260",
+	"avgtemp": "102"
+}, {
+	"date": "20140316",
+	"mintemp": "94",
+	"maxtemp": "122",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20140317",
+	"mintemp": "75",
+	"maxtemp": "120",
+	"location": "260",
+	"avgtemp": "98"
+}, {
+	"date": "20140318",
+	"mintemp": "75",
+	"maxtemp": "105",
+	"location": "260",
+	"avgtemp": "90"
+}, {
+	"date": "20140319",
+	"mintemp": "88",
+	"maxtemp": "159",
+	"location": "260",
+	"avgtemp": "124"
+}, {
+	"date": "20140320",
+	"mintemp": "48",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "130"
+}, {
+	"date": "20140321",
+	"mintemp": "42",
+	"maxtemp": "110",
+	"location": "260",
+	"avgtemp": "76"
+}, {
+	"date": "20140322",
+	"mintemp": "36",
+	"maxtemp": "105",
+	"location": "260",
+	"avgtemp": "71"
+}, {
+	"date": "20140323",
+	"mintemp": "10",
+	"maxtemp": "95",
+	"location": "260",
+	"avgtemp": "53"
+}, {
+	"date": "20140324",
+	"mintemp": "-7",
+	"maxtemp": "109",
+	"location": "260",
+	"avgtemp": "51"
+}, {
+	"date": "20140325",
+	"mintemp": "-23",
+	"maxtemp": "108",
+	"location": "260",
+	"avgtemp": "43"
+}, {
+	"date": "20140326",
+	"mintemp": "3",
+	"maxtemp": "96",
+	"location": "260",
+	"avgtemp": "50"
+}, {
+	"date": "20140327",
+	"mintemp": "14",
+	"maxtemp": "137",
+	"location": "260",
+	"avgtemp": "76"
+}, {
+	"date": "20140328",
+	"mintemp": "50",
+	"maxtemp": "173",
+	"location": "260",
+	"avgtemp": "112"
+}, {
+	"date": "20140329",
+	"mintemp": "37",
+	"maxtemp": "192",
+	"location": "260",
+	"avgtemp": "115"
+}, {
+	"date": "20140330",
+	"mintemp": "35",
+	"maxtemp": "202",
+	"location": "260",
+	"avgtemp": "119"
+}, {
+	"date": "20140331",
+	"mintemp": "94",
+	"maxtemp": "204",
+	"location": "260",
+	"avgtemp": "149"
+}, {
+	"date": "20140401",
+	"mintemp": "64",
+	"maxtemp": "204",
+	"location": "260",
+	"avgtemp": "134"
+}, {
+	"date": "20140402",
+	"mintemp": "45",
+	"maxtemp": "215",
+	"location": "260",
+	"avgtemp": "130"
+}, {
+	"date": "20140403",
+	"mintemp": "78",
+	"maxtemp": "227",
+	"location": "260",
+	"avgtemp": "153"
+}, {
+	"date": "20140404",
+	"mintemp": "112",
+	"maxtemp": "152",
+	"location": "260",
+	"avgtemp": "132"
+}, {
+	"date": "20140405",
+	"mintemp": "60",
+	"maxtemp": "177",
+	"location": "260",
+	"avgtemp": "119"
+}, {
+	"date": "20140406",
+	"mintemp": "55",
+	"maxtemp": "177",
+	"location": "260",
+	"avgtemp": "116"
+}, {
+	"date": "20140407",
+	"mintemp": "119",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "166"
+}, {
+	"date": "20140408",
+	"mintemp": "63",
+	"maxtemp": "138",
+	"location": "260",
+	"avgtemp": "101"
+}, {
+	"date": "20140409",
+	"mintemp": "60",
+	"maxtemp": "148",
+	"location": "260",
+	"avgtemp": "104"
+}, {
+	"date": "20140410",
+	"mintemp": "102",
+	"maxtemp": "154",
+	"location": "260",
+	"avgtemp": "128"
+}, {
+	"date": "20140411",
+	"mintemp": "59",
+	"maxtemp": "153",
+	"location": "260",
+	"avgtemp": "106"
+}, {
+	"date": "20140412",
+	"mintemp": "20",
+	"maxtemp": "158",
+	"location": "260",
+	"avgtemp": "89"
+}, {
+	"date": "20140413",
+	"mintemp": "82",
+	"maxtemp": "131",
+	"location": "260",
+	"avgtemp": "107"
+}, {
+	"date": "20140414",
+	"mintemp": "55",
+	"maxtemp": "117",
+	"location": "260",
+	"avgtemp": "86"
+}, {
+	"date": "20140415",
+	"mintemp": "32",
+	"maxtemp": "107",
+	"location": "260",
+	"avgtemp": "70"
+}, {
+	"date": "20140416",
+	"mintemp": "-9",
+	"maxtemp": "143",
+	"location": "260",
+	"avgtemp": "67"
+}, {
+	"date": "20140417",
+	"mintemp": "24",
+	"maxtemp": "176",
+	"location": "260",
+	"avgtemp": "100"
+}, {
+	"date": "20140418",
+	"mintemp": "58",
+	"maxtemp": "121",
+	"location": "260",
+	"avgtemp": "90"
+}, {
+	"date": "20140419",
+	"mintemp": "62",
+	"maxtemp": "166",
+	"location": "260",
+	"avgtemp": "114"
+}, {
+	"date": "20140420",
+	"mintemp": "100",
+	"maxtemp": "207",
+	"location": "260",
+	"avgtemp": "154"
+}, {
+	"date": "20140421",
+	"mintemp": "90",
+	"maxtemp": "158",
+	"location": "260",
+	"avgtemp": "124"
+}, {
+	"date": "20140422",
+	"mintemp": "67",
+	"maxtemp": "190",
+	"location": "260",
+	"avgtemp": "129"
+}, {
+	"date": "20140423",
+	"mintemp": "51",
+	"maxtemp": "211",
+	"location": "260",
+	"avgtemp": "131"
+}, {
+	"date": "20140424",
+	"mintemp": "69",
+	"maxtemp": "205",
+	"location": "260",
+	"avgtemp": "137"
+}, {
+	"date": "20140425",
+	"mintemp": "107",
+	"maxtemp": "237",
+	"location": "260",
+	"avgtemp": "172"
+}, {
+	"date": "20140426",
+	"mintemp": "104",
+	"maxtemp": "176",
+	"location": "260",
+	"avgtemp": "140"
+}, {
+	"date": "20140427",
+	"mintemp": "86",
+	"maxtemp": "153",
+	"location": "260",
+	"avgtemp": "120"
+}, {
+	"date": "20140428",
+	"mintemp": "82",
+	"maxtemp": "169",
+	"location": "260",
+	"avgtemp": "126"
+}, {
+	"date": "20140429",
+	"mintemp": "118",
+	"maxtemp": "175",
+	"location": "260",
+	"avgtemp": "147"
+}, {
+	"date": "20140430",
+	"mintemp": "106",
+	"maxtemp": "179",
+	"location": "260",
+	"avgtemp": "143"
+}, {
+	"date": "20140501",
+	"mintemp": "101",
+	"maxtemp": "183",
+	"location": "260",
+	"avgtemp": "142"
+}, {
+	"date": "20140502",
+	"mintemp": "64",
+	"maxtemp": "122",
+	"location": "260",
+	"avgtemp": "93"
+}, {
+	"date": "20140503",
+	"mintemp": "17",
+	"maxtemp": "137",
+	"location": "260",
+	"avgtemp": "77"
+}, {
+	"date": "20140504",
+	"mintemp": "0",
+	"maxtemp": "137",
+	"location": "260",
+	"avgtemp": "69"
+}, {
+	"date": "20140505",
+	"mintemp": "31",
+	"maxtemp": "184",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20140506",
+	"mintemp": "115",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "147"
+}, {
+	"date": "20140507",
+	"mintemp": "106",
+	"maxtemp": "162",
+	"location": "260",
+	"avgtemp": "134"
+}, {
+	"date": "20140508",
+	"mintemp": "113",
+	"maxtemp": "134",
+	"location": "260",
+	"avgtemp": "124"
+}, {
+	"date": "20140509",
+	"mintemp": "91",
+	"maxtemp": "161",
+	"location": "260",
+	"avgtemp": "126"
+}, {
+	"date": "20140510",
+	"mintemp": "98",
+	"maxtemp": "156",
+	"location": "260",
+	"avgtemp": "127"
+}, {
+	"date": "20140511",
+	"mintemp": "90",
+	"maxtemp": "117",
+	"location": "260",
+	"avgtemp": "104"
+}, {
+	"date": "20140512",
+	"mintemp": "60",
+	"maxtemp": "146",
+	"location": "260",
+	"avgtemp": "103"
+}, {
+	"date": "20140513",
+	"mintemp": "55",
+	"maxtemp": "150",
+	"location": "260",
+	"avgtemp": "103"
+}, {
+	"date": "20140514",
+	"mintemp": "37",
+	"maxtemp": "139",
+	"location": "260",
+	"avgtemp": "88"
+}, {
+	"date": "20140515",
+	"mintemp": "44",
+	"maxtemp": "150",
+	"location": "260",
+	"avgtemp": "97"
+}, {
+	"date": "20140516",
+	"mintemp": "34",
+	"maxtemp": "183",
+	"location": "260",
+	"avgtemp": "109"
+}, {
+	"date": "20140517",
+	"mintemp": "51",
+	"maxtemp": "207",
+	"location": "260",
+	"avgtemp": "129"
+}, {
+	"date": "20140518",
+	"mintemp": "74",
+	"maxtemp": "231",
+	"location": "260",
+	"avgtemp": "153"
+}, {
+	"date": "20140519",
+	"mintemp": "92",
+	"maxtemp": "243",
+	"location": "260",
+	"avgtemp": "168"
+}, {
+	"date": "20140520",
+	"mintemp": "136",
+	"maxtemp": "271",
+	"location": "260",
+	"avgtemp": "204"
+}, {
+	"date": "20140521",
+	"mintemp": "126",
+	"maxtemp": "215",
+	"location": "260",
+	"avgtemp": "171"
+}, {
+	"date": "20140522",
+	"mintemp": "149",
+	"maxtemp": "230",
+	"location": "260",
+	"avgtemp": "190"
+}, {
+	"date": "20140523",
+	"mintemp": "126",
+	"maxtemp": "207",
+	"location": "260",
+	"avgtemp": "167"
+}, {
+	"date": "20140524",
+	"mintemp": "107",
+	"maxtemp": "196",
+	"location": "260",
+	"avgtemp": "152"
+}, {
+	"date": "20140525",
+	"mintemp": "97",
+	"maxtemp": "213",
+	"location": "260",
+	"avgtemp": "155"
+}, {
+	"date": "20140526",
+	"mintemp": "122",
+	"maxtemp": "223",
+	"location": "260",
+	"avgtemp": "173"
+}, {
+	"date": "20140527",
+	"mintemp": "135",
+	"maxtemp": "174",
+	"location": "260",
+	"avgtemp": "155"
+}, {
+	"date": "20140528",
+	"mintemp": "117",
+	"maxtemp": "146",
+	"location": "260",
+	"avgtemp": "132"
+}, {
+	"date": "20140529",
+	"mintemp": "75",
+	"maxtemp": "118",
+	"location": "260",
+	"avgtemp": "97"
+}, {
+	"date": "20140530",
+	"mintemp": "43",
+	"maxtemp": "169",
+	"location": "260",
+	"avgtemp": "106"
+}, {
+	"date": "20140531",
+	"mintemp": "54",
+	"maxtemp": "194",
+	"location": "260",
+	"avgtemp": "124"
+}, {
+	"date": "20140601",
+	"mintemp": "69",
+	"maxtemp": "187",
+	"location": "260",
+	"avgtemp": "128"
+}, {
+	"date": "20140602",
+	"mintemp": "56",
+	"maxtemp": "206",
+	"location": "260",
+	"avgtemp": "131"
+}, {
+	"date": "20140603",
+	"mintemp": "64",
+	"maxtemp": "210",
+	"location": "260",
+	"avgtemp": "137"
+}, {
+	"date": "20140604",
+	"mintemp": "106",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "142"
+}, {
+	"date": "20140605",
+	"mintemp": "88",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "133"
+}, {
+	"date": "20140606",
+	"mintemp": "62",
+	"maxtemp": "229",
+	"location": "260",
+	"avgtemp": "146"
+}, {
+	"date": "20140607",
+	"mintemp": "117",
+	"maxtemp": "276",
+	"location": "260",
+	"avgtemp": "197"
+}, {
+	"date": "20140608",
+	"mintemp": "152",
+	"maxtemp": "248",
+	"location": "260",
+	"avgtemp": "200"
+}, {
+	"date": "20140609",
+	"mintemp": "160",
+	"maxtemp": "271",
+	"location": "260",
+	"avgtemp": "216"
+}, {
+	"date": "20140610",
+	"mintemp": "162",
+	"maxtemp": "258",
+	"location": "260",
+	"avgtemp": "210"
+}, {
+	"date": "20140611",
+	"mintemp": "104",
+	"maxtemp": "219",
+	"location": "260",
+	"avgtemp": "162"
+}, {
+	"date": "20140612",
+	"mintemp": "88",
+	"maxtemp": "229",
+	"location": "260",
+	"avgtemp": "159"
+}, {
+	"date": "20140613",
+	"mintemp": "113",
+	"maxtemp": "222",
+	"location": "260",
+	"avgtemp": "168"
+}, {
+	"date": "20140614",
+	"mintemp": "137",
+	"maxtemp": "189",
+	"location": "260",
+	"avgtemp": "163"
+}, {
+	"date": "20140615",
+	"mintemp": "108",
+	"maxtemp": "201",
+	"location": "260",
+	"avgtemp": "155"
+}, {
+	"date": "20140616",
+	"mintemp": "99",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "139"
+}, {
+	"date": "20140617",
+	"mintemp": "105",
+	"maxtemp": "193",
+	"location": "260",
+	"avgtemp": "149"
+}, {
+	"date": "20140618",
+	"mintemp": "78",
+	"maxtemp": "200",
+	"location": "260",
+	"avgtemp": "139"
+}, {
+	"date": "20140619",
+	"mintemp": "104",
+	"maxtemp": "161",
+	"location": "260",
+	"avgtemp": "133"
+}, {
+	"date": "20140620",
+	"mintemp": "88",
+	"maxtemp": "180",
+	"location": "260",
+	"avgtemp": "134"
+}, {
+	"date": "20140621",
+	"mintemp": "91",
+	"maxtemp": "209",
+	"location": "260",
+	"avgtemp": "150"
+}, {
+	"date": "20140622",
+	"mintemp": "88",
+	"maxtemp": "206",
+	"location": "260",
+	"avgtemp": "147"
+}, {
+	"date": "20140623",
+	"mintemp": "70",
+	"maxtemp": "213",
+	"location": "260",
+	"avgtemp": "142"
+}, {
+	"date": "20140624",
+	"mintemp": "119",
+	"maxtemp": "213",
+	"location": "260",
+	"avgtemp": "166"
+}, {
+	"date": "20140625",
+	"mintemp": "106",
+	"maxtemp": "192",
+	"location": "260",
+	"avgtemp": "149"
+}, {
+	"date": "20140626",
+	"mintemp": "106",
+	"maxtemp": "222",
+	"location": "260",
+	"avgtemp": "164"
+}, {
+	"date": "20140627",
+	"mintemp": "127",
+	"maxtemp": "215",
+	"location": "260",
+	"avgtemp": "171"
+}, {
+	"date": "20140628",
+	"mintemp": "144",
+	"maxtemp": "210",
+	"location": "260",
+	"avgtemp": "177"
+}, {
+	"date": "20140629",
+	"mintemp": "124",
+	"maxtemp": "192",
+	"location": "260",
+	"avgtemp": "158"
+}, {
+	"date": "20140630",
+	"mintemp": "78",
+	"maxtemp": "186",
+	"location": "260",
+	"avgtemp": "132"
+}, {
+	"date": "20140701",
+	"mintemp": "69",
+	"maxtemp": "193",
+	"location": "260",
+	"avgtemp": "131"
+}, {
+	"date": "20140702",
+	"mintemp": "62",
+	"maxtemp": "209",
+	"location": "260",
+	"avgtemp": "136"
+}, {
+	"date": "20140703",
+	"mintemp": "90",
+	"maxtemp": "262",
+	"location": "260",
+	"avgtemp": "176"
+}, {
+	"date": "20140704",
+	"mintemp": "105",
+	"maxtemp": "289",
+	"location": "260",
+	"avgtemp": "197"
+}, {
+	"date": "20140705",
+	"mintemp": "174",
+	"maxtemp": "228",
+	"location": "260",
+	"avgtemp": "201"
+}, {
+	"date": "20140706",
+	"mintemp": "145",
+	"maxtemp": "244",
+	"location": "260",
+	"avgtemp": "195"
+}, {
+	"date": "20140707",
+	"mintemp": "124",
+	"maxtemp": "235",
+	"location": "260",
+	"avgtemp": "180"
+}, {
+	"date": "20140708",
+	"mintemp": "130",
+	"maxtemp": "170",
+	"location": "260",
+	"avgtemp": "150"
+}, {
+	"date": "20140709",
+	"mintemp": "130",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "154"
+}, {
+	"date": "20140710",
+	"mintemp": "160",
+	"maxtemp": "276",
+	"location": "260",
+	"avgtemp": "218"
+}, {
+	"date": "20140711",
+	"mintemp": "168",
+	"maxtemp": "238",
+	"location": "260",
+	"avgtemp": "203"
+}, {
+	"date": "20140712",
+	"mintemp": "162",
+	"maxtemp": "245",
+	"location": "260",
+	"avgtemp": "204"
+}, {
+	"date": "20140713",
+	"mintemp": "155",
+	"maxtemp": "231",
+	"location": "260",
+	"avgtemp": "193"
+}, {
+	"date": "20140714",
+	"mintemp": "133",
+	"maxtemp": "227",
+	"location": "260",
+	"avgtemp": "180"
+}, {
+	"date": "20140715",
+	"mintemp": "139",
+	"maxtemp": "224",
+	"location": "260",
+	"avgtemp": "182"
+}, {
+	"date": "20140716",
+	"mintemp": "132",
+	"maxtemp": "258",
+	"location": "260",
+	"avgtemp": "195"
+}, {
+	"date": "20140717",
+	"mintemp": "146",
+	"maxtemp": "283",
+	"location": "260",
+	"avgtemp": "215"
+}, {
+	"date": "20140718",
+	"mintemp": "172",
+	"maxtemp": "311",
+	"location": "260",
+	"avgtemp": "242"
+}, {
+	"date": "20140719",
+	"mintemp": "182",
+	"maxtemp": "329",
+	"location": "260",
+	"avgtemp": "256"
+}, {
+	"date": "20140720",
+	"mintemp": "188",
+	"maxtemp": "272",
+	"location": "260",
+	"avgtemp": "230"
+}, {
+	"date": "20140721",
+	"mintemp": "180",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "196"
+}, {
+	"date": "20140722",
+	"mintemp": "191",
+	"maxtemp": "272",
+	"location": "260",
+	"avgtemp": "232"
+}, {
+	"date": "20140723",
+	"mintemp": "191",
+	"maxtemp": "284",
+	"location": "260",
+	"avgtemp": "238"
+}, {
+	"date": "20140724",
+	"mintemp": "166",
+	"maxtemp": "263",
+	"location": "260",
+	"avgtemp": "215"
+}, {
+	"date": "20140725",
+	"mintemp": "166",
+	"maxtemp": "221",
+	"location": "260",
+	"avgtemp": "194"
+}, {
+	"date": "20140726",
+	"mintemp": "167",
+	"maxtemp": "251",
+	"location": "260",
+	"avgtemp": "209"
+}, {
+	"date": "20140727",
+	"mintemp": "184",
+	"maxtemp": "262",
+	"location": "260",
+	"avgtemp": "223"
+}, {
+	"date": "20140728",
+	"mintemp": "176",
+	"maxtemp": "235",
+	"location": "260",
+	"avgtemp": "206"
+}, {
+	"date": "20140729",
+	"mintemp": "173",
+	"maxtemp": "259",
+	"location": "260",
+	"avgtemp": "216"
+}, {
+	"date": "20140730",
+	"mintemp": "125",
+	"maxtemp": "235",
+	"location": "260",
+	"avgtemp": "180"
+}, {
+	"date": "20140731",
+	"mintemp": "113",
+	"maxtemp": "244",
+	"location": "260",
+	"avgtemp": "179"
+}, {
+	"date": "20140801",
+	"mintemp": "126",
+	"maxtemp": "259",
+	"location": "260",
+	"avgtemp": "193"
+}, {
+	"date": "20140802",
+	"mintemp": "155",
+	"maxtemp": "276",
+	"location": "260",
+	"avgtemp": "216"
+}, {
+	"date": "20140803",
+	"mintemp": "148",
+	"maxtemp": "253",
+	"location": "260",
+	"avgtemp": "201"
+}, {
+	"date": "20140804",
+	"mintemp": "123",
+	"maxtemp": "233",
+	"location": "260",
+	"avgtemp": "178"
+}, {
+	"date": "20140805",
+	"mintemp": "105",
+	"maxtemp": "243",
+	"location": "260",
+	"avgtemp": "174"
+}, {
+	"date": "20140806",
+	"mintemp": "130",
+	"maxtemp": "213",
+	"location": "260",
+	"avgtemp": "172"
+}, {
+	"date": "20140807",
+	"mintemp": "142",
+	"maxtemp": "230",
+	"location": "260",
+	"avgtemp": "186"
+}, {
+	"date": "20140808",
+	"mintemp": "139",
+	"maxtemp": "223",
+	"location": "260",
+	"avgtemp": "181"
+}, {
+	"date": "20140809",
+	"mintemp": "143",
+	"maxtemp": "231",
+	"location": "260",
+	"avgtemp": "187"
+}, {
+	"date": "20140810",
+	"mintemp": "138",
+	"maxtemp": "225",
+	"location": "260",
+	"avgtemp": "182"
+}, {
+	"date": "20140811",
+	"mintemp": "147",
+	"maxtemp": "207",
+	"location": "260",
+	"avgtemp": "177"
+}, {
+	"date": "20140812",
+	"mintemp": "141",
+	"maxtemp": "202",
+	"location": "260",
+	"avgtemp": "172"
+}, {
+	"date": "20140813",
+	"mintemp": "126",
+	"maxtemp": "217",
+	"location": "260",
+	"avgtemp": "172"
+}, {
+	"date": "20140814",
+	"mintemp": "132",
+	"maxtemp": "203",
+	"location": "260",
+	"avgtemp": "168"
+}, {
+	"date": "20140815",
+	"mintemp": "120",
+	"maxtemp": "197",
+	"location": "260",
+	"avgtemp": "159"
+}, {
+	"date": "20140816",
+	"mintemp": "117",
+	"maxtemp": "187",
+	"location": "260",
+	"avgtemp": "152"
+}, {
+	"date": "20140817",
+	"mintemp": "119",
+	"maxtemp": "167",
+	"location": "260",
+	"avgtemp": "143"
+}, {
+	"date": "20140818",
+	"mintemp": "97",
+	"maxtemp": "173",
+	"location": "260",
+	"avgtemp": "135"
+}, {
+	"date": "20140819",
+	"mintemp": "95",
+	"maxtemp": "159",
+	"location": "260",
+	"avgtemp": "127"
+}, {
+	"date": "20140820",
+	"mintemp": "84",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "131"
+}, {
+	"date": "20140821",
+	"mintemp": "78",
+	"maxtemp": "182",
+	"location": "260",
+	"avgtemp": "130"
+}, {
+	"date": "20140822",
+	"mintemp": "106",
+	"maxtemp": "171",
+	"location": "260",
+	"avgtemp": "139"
+}, {
+	"date": "20140823",
+	"mintemp": "81",
+	"maxtemp": "174",
+	"location": "260",
+	"avgtemp": "128"
+}, {
+	"date": "20140824",
+	"mintemp": "73",
+	"maxtemp": "177",
+	"location": "260",
+	"avgtemp": "125"
+}, {
+	"date": "20140825",
+	"mintemp": "73",
+	"maxtemp": "169",
+	"location": "260",
+	"avgtemp": "121"
+}, {
+	"date": "20140826",
+	"mintemp": "104",
+	"maxtemp": "165",
+	"location": "260",
+	"avgtemp": "135"
+}, {
+	"date": "20140827",
+	"mintemp": "64",
+	"maxtemp": "207",
+	"location": "260",
+	"avgtemp": "136"
+}, {
+	"date": "20140828",
+	"mintemp": "114",
+	"maxtemp": "214",
+	"location": "260",
+	"avgtemp": "164"
+}, {
+	"date": "20140829",
+	"mintemp": "133",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "173"
+}, {
+	"date": "20140830",
+	"mintemp": "142",
+	"maxtemp": "186",
+	"location": "260",
+	"avgtemp": "164"
+}, {
+	"date": "20140831",
+	"mintemp": "104",
+	"maxtemp": "190",
+	"location": "260",
+	"avgtemp": "147"
+}, {
+	"date": "20140901",
+	"mintemp": "87",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "150"
+}, {
+	"date": "20140902",
+	"mintemp": "120",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "166"
+}, {
+	"date": "20140903",
+	"mintemp": "106",
+	"maxtemp": "212",
+	"location": "260",
+	"avgtemp": "159"
+}, {
+	"date": "20140904",
+	"mintemp": "130",
+	"maxtemp": "235",
+	"location": "260",
+	"avgtemp": "183"
+}, {
+	"date": "20140905",
+	"mintemp": "121",
+	"maxtemp": "228",
+	"location": "260",
+	"avgtemp": "175"
+}, {
+	"date": "20140906",
+	"mintemp": "130",
+	"maxtemp": "205",
+	"location": "260",
+	"avgtemp": "168"
+}, {
+	"date": "20140907",
+	"mintemp": "106",
+	"maxtemp": "216",
+	"location": "260",
+	"avgtemp": "161"
+}, {
+	"date": "20140908",
+	"mintemp": "79",
+	"maxtemp": "205",
+	"location": "260",
+	"avgtemp": "142"
+}, {
+	"date": "20140909",
+	"mintemp": "99",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "139"
+}, {
+	"date": "20140910",
+	"mintemp": "92",
+	"maxtemp": "184",
+	"location": "260",
+	"avgtemp": "138"
+}, {
+	"date": "20140911",
+	"mintemp": "94",
+	"maxtemp": "204",
+	"location": "260",
+	"avgtemp": "149"
+}, {
+	"date": "20140912",
+	"mintemp": "76",
+	"maxtemp": "216",
+	"location": "260",
+	"avgtemp": "146"
+}, {
+	"date": "20140913",
+	"mintemp": "140",
+	"maxtemp": "211",
+	"location": "260",
+	"avgtemp": "176"
+}, {
+	"date": "20140914",
+	"mintemp": "113",
+	"maxtemp": "209",
+	"location": "260",
+	"avgtemp": "161"
+}, {
+	"date": "20140915",
+	"mintemp": "106",
+	"maxtemp": "228",
+	"location": "260",
+	"avgtemp": "167"
+}, {
+	"date": "20140916",
+	"mintemp": "114",
+	"maxtemp": "246",
+	"location": "260",
+	"avgtemp": "180"
+}, {
+	"date": "20140917",
+	"mintemp": "113",
+	"maxtemp": "252",
+	"location": "260",
+	"avgtemp": "183"
+}, {
+	"date": "20140918",
+	"mintemp": "122",
+	"maxtemp": "253",
+	"location": "260",
+	"avgtemp": "188"
+}, {
+	"date": "20140919",
+	"mintemp": "134",
+	"maxtemp": "244",
+	"location": "260",
+	"avgtemp": "189"
+}, {
+	"date": "20140920",
+	"mintemp": "132",
+	"maxtemp": "240",
+	"location": "260",
+	"avgtemp": "186"
+}, {
+	"date": "20140921",
+	"mintemp": "126",
+	"maxtemp": "192",
+	"location": "260",
+	"avgtemp": "159"
+}, {
+	"date": "20140922",
+	"mintemp": "63",
+	"maxtemp": "175",
+	"location": "260",
+	"avgtemp": "119"
+}, {
+	"date": "20140923",
+	"mintemp": "44",
+	"maxtemp": "177",
+	"location": "260",
+	"avgtemp": "111"
+}, {
+	"date": "20140924",
+	"mintemp": "110",
+	"maxtemp": "165",
+	"location": "260",
+	"avgtemp": "138"
+}, {
+	"date": "20140925",
+	"mintemp": "101",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "140"
+}, {
+	"date": "20140926",
+	"mintemp": "106",
+	"maxtemp": "194",
+	"location": "260",
+	"avgtemp": "150"
+}, {
+	"date": "20140927",
+	"mintemp": "79",
+	"maxtemp": "202",
+	"location": "260",
+	"avgtemp": "141"
+}, {
+	"date": "20140928",
+	"mintemp": "83",
+	"maxtemp": "220",
+	"location": "260",
+	"avgtemp": "152"
+}, {
+	"date": "20140929",
+	"mintemp": "119",
+	"maxtemp": "193",
+	"location": "260",
+	"avgtemp": "156"
+}, {
+	"date": "20140930",
+	"mintemp": "118",
+	"maxtemp": "209",
+	"location": "260",
+	"avgtemp": "164"
+}, {
+	"date": "20141001",
+	"mintemp": "101",
+	"maxtemp": "207",
+	"location": "260",
+	"avgtemp": "154"
+}, {
+	"date": "20141002",
+	"mintemp": "135",
+	"maxtemp": "192",
+	"location": "260",
+	"avgtemp": "164"
+}, {
+	"date": "20141003",
+	"mintemp": "99",
+	"maxtemp": "222",
+	"location": "260",
+	"avgtemp": "161"
+}, {
+	"date": "20141004",
+	"mintemp": "117",
+	"maxtemp": "211",
+	"location": "260",
+	"avgtemp": "164"
+}, {
+	"date": "20141005",
+	"mintemp": "117",
+	"maxtemp": "152",
+	"location": "260",
+	"avgtemp": "135"
+}, {
+	"date": "20141006",
+	"mintemp": "123",
+	"maxtemp": "161",
+	"location": "260",
+	"avgtemp": "142"
+}, {
+	"date": "20141007",
+	"mintemp": "93",
+	"maxtemp": "156",
+	"location": "260",
+	"avgtemp": "125"
+}, {
+	"date": "20141008",
+	"mintemp": "87",
+	"maxtemp": "166",
+	"location": "260",
+	"avgtemp": "127"
+}, {
+	"date": "20141009",
+	"mintemp": "127",
+	"maxtemp": "180",
+	"location": "260",
+	"avgtemp": "154"
+}, {
+	"date": "20141010",
+	"mintemp": "76",
+	"maxtemp": "178",
+	"location": "260",
+	"avgtemp": "127"
+}, {
+	"date": "20141011",
+	"mintemp": "66",
+	"maxtemp": "157",
+	"location": "260",
+	"avgtemp": "112"
+}, {
+	"date": "20141012",
+	"mintemp": "64",
+	"maxtemp": "162",
+	"location": "260",
+	"avgtemp": "113"
+}, {
+	"date": "20141013",
+	"mintemp": "120",
+	"maxtemp": "185",
+	"location": "260",
+	"avgtemp": "153"
+}, {
+	"date": "20141014",
+	"mintemp": "100",
+	"maxtemp": "136",
+	"location": "260",
+	"avgtemp": "118"
+}, {
+	"date": "20141015",
+	"mintemp": "115",
+	"maxtemp": "184",
+	"location": "260",
+	"avgtemp": "150"
+}, {
+	"date": "20141016",
+	"mintemp": "118",
+	"maxtemp": "180",
+	"location": "260",
+	"avgtemp": "149"
+}, {
+	"date": "20141017",
+	"mintemp": "118",
+	"maxtemp": "188",
+	"location": "260",
+	"avgtemp": "153"
+}, {
+	"date": "20141018",
+	"mintemp": "128",
+	"maxtemp": "230",
+	"location": "260",
+	"avgtemp": "179"
+}, {
+	"date": "20141019",
+	"mintemp": "148",
+	"maxtemp": "215",
+	"location": "260",
+	"avgtemp": "182"
+}, {
+	"date": "20141020",
+	"mintemp": "139",
+	"maxtemp": "177",
+	"location": "260",
+	"avgtemp": "158"
+}, {
+	"date": "20141021",
+	"mintemp": "76",
+	"maxtemp": "140",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20141022",
+	"mintemp": "63",
+	"maxtemp": "135",
+	"location": "260",
+	"avgtemp": "99"
+}, {
+	"date": "20141023",
+	"mintemp": "94",
+	"maxtemp": "151",
+	"location": "260",
+	"avgtemp": "123"
+}, {
+	"date": "20141024",
+	"mintemp": "108",
+	"maxtemp": "126",
+	"location": "260",
+	"avgtemp": "117"
+}, {
+	"date": "20141025",
+	"mintemp": "96",
+	"maxtemp": "153",
+	"location": "260",
+	"avgtemp": "125"
+}, {
+	"date": "20141026",
+	"mintemp": "95",
+	"maxtemp": "159",
+	"location": "260",
+	"avgtemp": "127"
+}, {
+	"date": "20141027",
+	"mintemp": "98",
+	"maxtemp": "170",
+	"location": "260",
+	"avgtemp": "134"
+}, {
+	"date": "20141028",
+	"mintemp": "75",
+	"maxtemp": "140",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20141029",
+	"mintemp": "88",
+	"maxtemp": "128",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20141030",
+	"mintemp": "115",
+	"maxtemp": "156",
+	"location": "260",
+	"avgtemp": "136"
+}, {
+	"date": "20141031",
+	"mintemp": "105",
+	"maxtemp": "166",
+	"location": "260",
+	"avgtemp": "136"
+}, {
+	"date": "20141101",
+	"mintemp": "102",
+	"maxtemp": "185",
+	"location": "260",
+	"avgtemp": "144"
+}, {
+	"date": "20141102",
+	"mintemp": "127",
+	"maxtemp": "174",
+	"location": "260",
+	"avgtemp": "151"
+}, {
+	"date": "20141103",
+	"mintemp": "94",
+	"maxtemp": "153",
+	"location": "260",
+	"avgtemp": "124"
+}, {
+	"date": "20141104",
+	"mintemp": "55",
+	"maxtemp": "109",
+	"location": "260",
+	"avgtemp": "82"
+}, {
+	"date": "20141105",
+	"mintemp": "35",
+	"maxtemp": "95",
+	"location": "260",
+	"avgtemp": "65"
+}, {
+	"date": "20141106",
+	"mintemp": "45",
+	"maxtemp": "82",
+	"location": "260",
+	"avgtemp": "64"
+}, {
+	"date": "20141107",
+	"mintemp": "45",
+	"maxtemp": "98",
+	"location": "260",
+	"avgtemp": "72"
+}, {
+	"date": "20141108",
+	"mintemp": "81",
+	"maxtemp": "129",
+	"location": "260",
+	"avgtemp": "105"
+}, {
+	"date": "20141109",
+	"mintemp": "72",
+	"maxtemp": "128",
+	"location": "260",
+	"avgtemp": "100"
+}, {
+	"date": "20141110",
+	"mintemp": "59",
+	"maxtemp": "126",
+	"location": "260",
+	"avgtemp": "93"
+}, {
+	"date": "20141111",
+	"mintemp": "57",
+	"maxtemp": "129",
+	"location": "260",
+	"avgtemp": "93"
+}, {
+	"date": "20141112",
+	"mintemp": "41",
+	"maxtemp": "122",
+	"location": "260",
+	"avgtemp": "82"
+}, {
+	"date": "20141113",
+	"mintemp": "36",
+	"maxtemp": "133",
+	"location": "260",
+	"avgtemp": "85"
+}, {
+	"date": "20141114",
+	"mintemp": "69",
+	"maxtemp": "124",
+	"location": "260",
+	"avgtemp": "97"
+}, {
+	"date": "20141115",
+	"mintemp": "75",
+	"maxtemp": "110",
+	"location": "260",
+	"avgtemp": "93"
+}, {
+	"date": "20141116",
+	"mintemp": "71",
+	"maxtemp": "92",
+	"location": "260",
+	"avgtemp": "82"
+}, {
+	"date": "20141117",
+	"mintemp": "81",
+	"maxtemp": "123",
+	"location": "260",
+	"avgtemp": "102"
+}, {
+	"date": "20141118",
+	"mintemp": "73",
+	"maxtemp": "83",
+	"location": "260",
+	"avgtemp": "78"
+}, {
+	"date": "20141119",
+	"mintemp": "73",
+	"maxtemp": "91",
+	"location": "260",
+	"avgtemp": "82"
+}, {
+	"date": "20141120",
+	"mintemp": "52",
+	"maxtemp": "80",
+	"location": "260",
+	"avgtemp": "66"
+}, {
+	"date": "20141121",
+	"mintemp": "16",
+	"maxtemp": "90",
+	"location": "260",
+	"avgtemp": "53"
+}, {
+	"date": "20141122",
+	"mintemp": "45",
+	"maxtemp": "118",
+	"location": "260",
+	"avgtemp": "82"
+}, {
+	"date": "20141123",
+	"mintemp": "80",
+	"maxtemp": "135",
+	"location": "260",
+	"avgtemp": "108"
+}, {
+	"date": "20141124",
+	"mintemp": "3",
+	"maxtemp": "113",
+	"location": "260",
+	"avgtemp": "58"
+}, {
+	"date": "20141125",
+	"mintemp": "-14",
+	"maxtemp": "91",
+	"location": "260",
+	"avgtemp": "39"
+}, {
+	"date": "20141126",
+	"mintemp": "24",
+	"maxtemp": "64",
+	"location": "260",
+	"avgtemp": "44"
+}, {
+	"date": "20141127",
+	"mintemp": "61",
+	"maxtemp": "88",
+	"location": "260",
+	"avgtemp": "75"
+}, {
+	"date": "20141128",
+	"mintemp": "26",
+	"maxtemp": "95",
+	"location": "260",
+	"avgtemp": "61"
+}, {
+	"date": "20141129",
+	"mintemp": "11",
+	"maxtemp": "49",
+	"location": "260",
+	"avgtemp": "30"
+}, {
+	"date": "20141130",
+	"mintemp": "18",
+	"maxtemp": "31",
+	"location": "260",
+	"avgtemp": "25"
+}, {
+	"date": "20141201",
+	"mintemp": "10",
+	"maxtemp": "24",
+	"location": "260",
+	"avgtemp": "17"
+}, {
+	"date": "20141202",
+	"mintemp": "-1",
+	"maxtemp": "14",
+	"location": "260",
+	"avgtemp": "7"
+}, {
+	"date": "20141203",
+	"mintemp": "-30",
+	"maxtemp": "10",
+	"location": "260",
+	"avgtemp": "-10"
+}, {
+	"date": "20141204",
+	"mintemp": "-27",
+	"maxtemp": "15",
+	"location": "260",
+	"avgtemp": "-6"
+}, {
+	"date": "20141205",
+	"mintemp": "14",
+	"maxtemp": "53",
+	"location": "260",
+	"avgtemp": "34"
+}, {
+	"date": "20141206",
+	"mintemp": "-18",
+	"maxtemp": "91",
+	"location": "260",
+	"avgtemp": "37"
+}, {
+	"date": "20141207",
+	"mintemp": "-28",
+	"maxtemp": "67",
+	"location": "260",
+	"avgtemp": "20"
+}, {
+	"date": "20141208",
+	"mintemp": "15",
+	"maxtemp": "49",
+	"location": "260",
+	"avgtemp": "32"
+}, {
+	"date": "20141209",
+	"mintemp": "-21",
+	"maxtemp": "49",
+	"location": "260",
+	"avgtemp": "14"
+}, {
+	"date": "20141210",
+	"mintemp": "44",
+	"maxtemp": "99",
+	"location": "260",
+	"avgtemp": "72"
+}, {
+	"date": "20141211",
+	"mintemp": "45",
+	"maxtemp": "77",
+	"location": "260",
+	"avgtemp": "61"
+}, {
+	"date": "20141212",
+	"mintemp": "45",
+	"maxtemp": "94",
+	"location": "260",
+	"avgtemp": "70"
+}, {
+	"date": "20141213",
+	"mintemp": "8",
+	"maxtemp": "68",
+	"location": "260",
+	"avgtemp": "38"
+}, {
+	"date": "20141214",
+	"mintemp": "-6",
+	"maxtemp": "48",
+	"location": "260",
+	"avgtemp": "21"
+}, {
+	"date": "20141215",
+	"mintemp": "32",
+	"maxtemp": "79",
+	"location": "260",
+	"avgtemp": "56"
+}, {
+	"date": "20141216",
+	"mintemp": "18",
+	"maxtemp": "78",
+	"location": "260",
+	"avgtemp": "48"
+}, {
+	"date": "20141217",
+	"mintemp": "39",
+	"maxtemp": "106",
+	"location": "260",
+	"avgtemp": "73"
+}, {
+	"date": "20141218",
+	"mintemp": "101",
+	"maxtemp": "125",
+	"location": "260",
+	"avgtemp": "113"
+}, {
+	"date": "20141219",
+	"mintemp": "73",
+	"maxtemp": "124",
+	"location": "260",
+	"avgtemp": "99"
+}, {
+	"date": "20141220",
+	"mintemp": "56",
+	"maxtemp": "91",
+	"location": "260",
+	"avgtemp": "74"
+}, {
+	"date": "20141221",
+	"mintemp": "52",
+	"maxtemp": "103",
+	"location": "260",
+	"avgtemp": "78"
+}, {
+	"date": "20141222",
+	"mintemp": "93",
+	"maxtemp": "128",
+	"location": "260",
+	"avgtemp": "111"
+}, {
+	"date": "20141223",
+	"mintemp": "96",
+	"maxtemp": "128",
+	"location": "260",
+	"avgtemp": "112"
+}, {
+	"date": "20141224",
+	"mintemp": "61",
+	"maxtemp": "100",
+	"location": "260",
+	"avgtemp": "81"
+}, {
+	"date": "20141225",
+	"mintemp": "-3",
+	"maxtemp": "79",
+	"location": "260",
+	"avgtemp": "38"
+}, {
+	"date": "20141226",
+	"mintemp": "-27",
+	"maxtemp": "52",
+	"location": "260",
+	"avgtemp": "13"
+}, {
+	"date": "20141227",
+	"mintemp": "-16",
+	"maxtemp": "29",
+	"location": "260",
+	"avgtemp": "7"
+}, {
+	"date": "20141228",
+	"mintemp": "-33",
+	"maxtemp": "34",
+	"location": "260",
+	"avgtemp": "1"
+}, {
+	"date": "20141229",
+	"mintemp": "11",
+	"maxtemp": "56",
+	"location": "260",
+	"avgtemp": "34"
+}, {
+	"date": "20141230",
+	"mintemp": "34",
+	"maxtemp": "65",
+	"location": "260",
+	"avgtemp": "50"
+}, {
+	"date": "20141231",
+	"mintemp": "25",
+	"maxtemp": "76",
+	"location": "260",
+	"avgtemp": "51"
+}, {
+	"date": "20140101",
+	"mintemp": "57",
+	"maxtemp": "99",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20140102",
+	"mintemp": "73",
+	"maxtemp": "102",
+	"location": "310",
+	"avgtemp": "88"
+}, {
+	"date": "20140103",
+	"mintemp": "62",
+	"maxtemp": "114",
+	"location": "310",
+	"avgtemp": "88"
+}, {
+	"date": "20140104",
+	"mintemp": "66",
+	"maxtemp": "96",
+	"location": "310",
+	"avgtemp": "81"
+}, {
+	"date": "20140105",
+	"mintemp": "45",
+	"maxtemp": "90",
+	"location": "310",
+	"avgtemp": "68"
+}, {
+	"date": "20140106",
+	"mintemp": "88",
+	"maxtemp": "130",
+	"location": "310",
+	"avgtemp": "109"
+}, {
+	"date": "20140107",
+	"mintemp": "89",
+	"maxtemp": "115",
+	"location": "310",
+	"avgtemp": "102"
+}, {
+	"date": "20140108",
+	"mintemp": "76",
+	"maxtemp": "98",
+	"location": "310",
+	"avgtemp": "87"
+}, {
+	"date": "20140109",
+	"mintemp": "78",
+	"maxtemp": "114",
+	"location": "310",
+	"avgtemp": "96"
+}, {
+	"date": "20140110",
+	"mintemp": "43",
+	"maxtemp": "93",
+	"location": "310",
+	"avgtemp": "68"
+}, {
+	"date": "20140111",
+	"mintemp": "44",
+	"maxtemp": "89",
+	"location": "310",
+	"avgtemp": "67"
+}, {
+	"date": "20140112",
+	"mintemp": "32",
+	"maxtemp": "65",
+	"location": "310",
+	"avgtemp": "49"
+}, {
+	"date": "20140113",
+	"mintemp": "54",
+	"maxtemp": "91",
+	"location": "310",
+	"avgtemp": "73"
+}, {
+	"date": "20140114",
+	"mintemp": "44",
+	"maxtemp": "70",
+	"location": "310",
+	"avgtemp": "57"
+}, {
+	"date": "20140115",
+	"mintemp": "42",
+	"maxtemp": "83",
+	"location": "310",
+	"avgtemp": "63"
+}, {
+	"date": "20140116",
+	"mintemp": "70",
+	"maxtemp": "92",
+	"location": "310",
+	"avgtemp": "81"
+}, {
+	"date": "20140117",
+	"mintemp": "71",
+	"maxtemp": "85",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20140118",
+	"mintemp": "61",
+	"maxtemp": "84",
+	"location": "310",
+	"avgtemp": "73"
+}, {
+	"date": "20140119",
+	"mintemp": "60",
+	"maxtemp": "95",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20140120",
+	"mintemp": "49",
+	"maxtemp": "76",
+	"location": "310",
+	"avgtemp": "63"
+}, {
+	"date": "20140121",
+	"mintemp": "45",
+	"maxtemp": "70",
+	"location": "310",
+	"avgtemp": "58"
+}, {
+	"date": "20140122",
+	"mintemp": "23",
+	"maxtemp": "55",
+	"location": "310",
+	"avgtemp": "39"
+}, {
+	"date": "20140123",
+	"mintemp": "43",
+	"maxtemp": "84",
+	"location": "310",
+	"avgtemp": "64"
+}, {
+	"date": "20140124",
+	"mintemp": "35",
+	"maxtemp": "75",
+	"location": "310",
+	"avgtemp": "55"
+}, {
+	"date": "20140125",
+	"mintemp": "34",
+	"maxtemp": "75",
+	"location": "310",
+	"avgtemp": "55"
+}, {
+	"date": "20140126",
+	"mintemp": "41",
+	"maxtemp": "82",
+	"location": "310",
+	"avgtemp": "62"
+}, {
+	"date": "20140127",
+	"mintemp": "29",
+	"maxtemp": "65",
+	"location": "310",
+	"avgtemp": "47"
+}, {
+	"date": "20140128",
+	"mintemp": "35",
+	"maxtemp": "59",
+	"location": "310",
+	"avgtemp": "47"
+}, {
+	"date": "20140129",
+	"mintemp": "22",
+	"maxtemp": "55",
+	"location": "310",
+	"avgtemp": "39"
+}, {
+	"date": "20140130",
+	"mintemp": "23",
+	"maxtemp": "63",
+	"location": "310",
+	"avgtemp": "43"
+}, {
+	"date": "20140131",
+	"mintemp": "21",
+	"maxtemp": "67",
+	"location": "310",
+	"avgtemp": "44"
+}, {
+	"date": "20140201",
+	"mintemp": "57",
+	"maxtemp": "80",
+	"location": "310",
+	"avgtemp": "69"
+}, {
+	"date": "20140202",
+	"mintemp": "38",
+	"maxtemp": "73",
+	"location": "310",
+	"avgtemp": "56"
+}, {
+	"date": "20140203",
+	"mintemp": "32",
+	"maxtemp": "74",
+	"location": "310",
+	"avgtemp": "53"
+}, {
+	"date": "20140204",
+	"mintemp": "43",
+	"maxtemp": "80",
+	"location": "310",
+	"avgtemp": "62"
+}, {
+	"date": "20140205",
+	"mintemp": "57",
+	"maxtemp": "90",
+	"location": "310",
+	"avgtemp": "74"
+}, {
+	"date": "20140206",
+	"mintemp": "54",
+	"maxtemp": "94",
+	"location": "310",
+	"avgtemp": "74"
+}, {
+	"date": "20140207",
+	"mintemp": "58",
+	"maxtemp": "98",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20140208",
+	"mintemp": "56",
+	"maxtemp": "95",
+	"location": "310",
+	"avgtemp": "76"
+}, {
+	"date": "20140209",
+	"mintemp": "44",
+	"maxtemp": "73",
+	"location": "310",
+	"avgtemp": "59"
+}, {
+	"date": "20140210",
+	"mintemp": "44",
+	"maxtemp": "70",
+	"location": "310",
+	"avgtemp": "57"
+}, {
+	"date": "20140211",
+	"mintemp": "38",
+	"maxtemp": "72",
+	"location": "310",
+	"avgtemp": "55"
+}, {
+	"date": "20140212",
+	"mintemp": "35",
+	"maxtemp": "81",
+	"location": "310",
+	"avgtemp": "58"
+}, {
+	"date": "20140213",
+	"mintemp": "39",
+	"maxtemp": "70",
+	"location": "310",
+	"avgtemp": "55"
+}, {
+	"date": "20140214",
+	"mintemp": "32",
+	"maxtemp": "122",
+	"location": "310",
+	"avgtemp": "77"
+}, {
+	"date": "20140215",
+	"mintemp": "63",
+	"maxtemp": "117",
+	"location": "310",
+	"avgtemp": "90"
+}, {
+	"date": "20140216",
+	"mintemp": "47",
+	"maxtemp": "81",
+	"location": "310",
+	"avgtemp": "64"
+}, {
+	"date": "20140217",
+	"mintemp": "54",
+	"maxtemp": "95",
+	"location": "310",
+	"avgtemp": "75"
+}, {
+	"date": "20140218",
+	"mintemp": "62",
+	"maxtemp": "76",
+	"location": "310",
+	"avgtemp": "69"
+}, {
+	"date": "20140219",
+	"mintemp": "60",
+	"maxtemp": "86",
+	"location": "310",
+	"avgtemp": "73"
+}, {
+	"date": "20140220",
+	"mintemp": "72",
+	"maxtemp": "101",
+	"location": "310",
+	"avgtemp": "87"
+}, {
+	"date": "20140221",
+	"mintemp": "55",
+	"maxtemp": "90",
+	"location": "310",
+	"avgtemp": "73"
+}, {
+	"date": "20140222",
+	"mintemp": "53",
+	"maxtemp": "94",
+	"location": "310",
+	"avgtemp": "74"
+}, {
+	"date": "20140223",
+	"mintemp": "55",
+	"maxtemp": "117",
+	"location": "310",
+	"avgtemp": "86"
+}, {
+	"date": "20140224",
+	"mintemp": "58",
+	"maxtemp": "110",
+	"location": "310",
+	"avgtemp": "84"
+}, {
+	"date": "20140225",
+	"mintemp": "63",
+	"maxtemp": "112",
+	"location": "310",
+	"avgtemp": "88"
+}, {
+	"date": "20140226",
+	"mintemp": "48",
+	"maxtemp": "100",
+	"location": "310",
+	"avgtemp": "74"
+}, {
+	"date": "20140227",
+	"mintemp": "49",
+	"maxtemp": "85",
+	"location": "310",
+	"avgtemp": "67"
+}, {
+	"date": "20140228",
+	"mintemp": "38",
+	"maxtemp": "64",
+	"location": "310",
+	"avgtemp": "51"
+}, {
+	"date": "20140301",
+	"mintemp": "40",
+	"maxtemp": "67",
+	"location": "310",
+	"avgtemp": "54"
+}, {
+	"date": "20140302",
+	"mintemp": "32",
+	"maxtemp": "91",
+	"location": "310",
+	"avgtemp": "62"
+}, {
+	"date": "20140303",
+	"mintemp": "46",
+	"maxtemp": "87",
+	"location": "310",
+	"avgtemp": "67"
+}, {
+	"date": "20140304",
+	"mintemp": "32",
+	"maxtemp": "86",
+	"location": "310",
+	"avgtemp": "59"
+}, {
+	"date": "20140305",
+	"mintemp": "45",
+	"maxtemp": "110",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20140306",
+	"mintemp": "54",
+	"maxtemp": "129",
+	"location": "310",
+	"avgtemp": "92"
+}, {
+	"date": "20140307",
+	"mintemp": "62",
+	"maxtemp": "118",
+	"location": "310",
+	"avgtemp": "90"
+}, {
+	"date": "20140308",
+	"mintemp": "61",
+	"maxtemp": "144",
+	"location": "310",
+	"avgtemp": "103"
+}, {
+	"date": "20140309",
+	"mintemp": "74",
+	"maxtemp": "159",
+	"location": "310",
+	"avgtemp": "117"
+}, {
+	"date": "20140310",
+	"mintemp": "73",
+	"maxtemp": "149",
+	"location": "310",
+	"avgtemp": "111"
+}, {
+	"date": "20140311",
+	"mintemp": "69",
+	"maxtemp": "121",
+	"location": "310",
+	"avgtemp": "95"
+}, {
+	"date": "20140312",
+	"mintemp": "49",
+	"maxtemp": "144",
+	"location": "310",
+	"avgtemp": "97"
+}, {
+	"date": "20140313",
+	"mintemp": "60",
+	"maxtemp": "156",
+	"location": "310",
+	"avgtemp": "108"
+}, {
+	"date": "20140314",
+	"mintemp": "43",
+	"maxtemp": "102",
+	"location": "310",
+	"avgtemp": "73"
+}, {
+	"date": "20140315",
+	"mintemp": "84",
+	"maxtemp": "113",
+	"location": "310",
+	"avgtemp": "99"
+}, {
+	"date": "20140316",
+	"mintemp": "85",
+	"maxtemp": "110",
+	"location": "310",
+	"avgtemp": "98"
+}, {
+	"date": "20140317",
+	"mintemp": "84",
+	"maxtemp": "105",
+	"location": "310",
+	"avgtemp": "95"
+}, {
+	"date": "20140318",
+	"mintemp": "82",
+	"maxtemp": "105",
+	"location": "310",
+	"avgtemp": "94"
+}, {
+	"date": "20140319",
+	"mintemp": "82",
+	"maxtemp": "139",
+	"location": "310",
+	"avgtemp": "111"
+}, {
+	"date": "20140320",
+	"mintemp": "79",
+	"maxtemp": "172",
+	"location": "310",
+	"avgtemp": "126"
+}, {
+	"date": "20140321",
+	"mintemp": "62",
+	"maxtemp": "105",
+	"location": "310",
+	"avgtemp": "84"
+}, {
+	"date": "20140322",
+	"mintemp": "51",
+	"maxtemp": "98",
+	"location": "310",
+	"avgtemp": "75"
+}, {
+	"date": "20140323",
+	"mintemp": "44",
+	"maxtemp": "89",
+	"location": "310",
+	"avgtemp": "67"
+}, {
+	"date": "20140324",
+	"mintemp": "44",
+	"maxtemp": "106",
+	"location": "310",
+	"avgtemp": "75"
+}, {
+	"date": "20140325",
+	"mintemp": "47",
+	"maxtemp": "119",
+	"location": "310",
+	"avgtemp": "83"
+}, {
+	"date": "20140326",
+	"mintemp": "38",
+	"maxtemp": "87",
+	"location": "310",
+	"avgtemp": "63"
+}, {
+	"date": "20140327",
+	"mintemp": "26",
+	"maxtemp": "100",
+	"location": "310",
+	"avgtemp": "63"
+}, {
+	"date": "20140328",
+	"mintemp": "62",
+	"maxtemp": "146",
+	"location": "310",
+	"avgtemp": "104"
+}, {
+	"date": "20140329",
+	"mintemp": "80",
+	"maxtemp": "181",
+	"location": "310",
+	"avgtemp": "131"
+}, {
+	"date": "20140330",
+	"mintemp": "95",
+	"maxtemp": "171",
+	"location": "310",
+	"avgtemp": "133"
+}, {
+	"date": "20140331",
+	"mintemp": "103",
+	"maxtemp": "185",
+	"location": "310",
+	"avgtemp": "144"
+}, {
+	"date": "20140401",
+	"mintemp": "95",
+	"maxtemp": "186",
+	"location": "310",
+	"avgtemp": "141"
+}, {
+	"date": "20140402",
+	"mintemp": "101",
+	"maxtemp": "189",
+	"location": "310",
+	"avgtemp": "145"
+}, {
+	"date": "20140403",
+	"mintemp": "108",
+	"maxtemp": "192",
+	"location": "310",
+	"avgtemp": "150"
+}, {
+	"date": "20140404",
+	"mintemp": "99",
+	"maxtemp": "127",
+	"location": "310",
+	"avgtemp": "113"
+}, {
+	"date": "20140405",
+	"mintemp": "89",
+	"maxtemp": "173",
+	"location": "310",
+	"avgtemp": "131"
+}, {
+	"date": "20140406",
+	"mintemp": "108",
+	"maxtemp": "155",
+	"location": "310",
+	"avgtemp": "132"
+}, {
+	"date": "20140407",
+	"mintemp": "118",
+	"maxtemp": "183",
+	"location": "310",
+	"avgtemp": "151"
+}, {
+	"date": "20140408",
+	"mintemp": "91",
+	"maxtemp": "118",
+	"location": "310",
+	"avgtemp": "105"
+}, {
+	"date": "20140409",
+	"mintemp": "70",
+	"maxtemp": "127",
+	"location": "310",
+	"avgtemp": "99"
+}, {
+	"date": "20140410",
+	"mintemp": "73",
+	"maxtemp": "139",
+	"location": "310",
+	"avgtemp": "106"
+}, {
+	"date": "20140411",
+	"mintemp": "79",
+	"maxtemp": "149",
+	"location": "310",
+	"avgtemp": "114"
+}, {
+	"date": "20140412",
+	"mintemp": "71",
+	"maxtemp": "136",
+	"location": "310",
+	"avgtemp": "104"
+}, {
+	"date": "20140413",
+	"mintemp": "90",
+	"maxtemp": "120",
+	"location": "310",
+	"avgtemp": "105"
+}, {
+	"date": "20140414",
+	"mintemp": "76",
+	"maxtemp": "115",
+	"location": "310",
+	"avgtemp": "96"
+}, {
+	"date": "20140415",
+	"mintemp": "54",
+	"maxtemp": "104",
+	"location": "310",
+	"avgtemp": "79"
+}, {
+	"date": "20140416",
+	"mintemp": "48",
+	"maxtemp": "142",
+	"location": "310",
+	"avgtemp": "95"
+}, {
+	"date": "20140417",
+	"mintemp": "87",
+	"maxtemp": "166",
+	"location": "310",
+	"avgtemp": "127"
+}, {
+	"date": "20140418",
+	"mintemp": "76",
+	"maxtemp": "112",
+	"location": "310",
+	"avgtemp": "94"
+}, {
+	"date": "20140419",
+	"mintemp": "65",
+	"maxtemp": "140",
+	"location": "310",
+	"avgtemp": "103"
+}, {
+	"date": "20140420",
+	"mintemp": "109",
+	"maxtemp": "188",
+	"location": "310",
+	"avgtemp": "149"
+}, {
+	"date": "20140421",
+	"mintemp": "98",
+	"maxtemp": "189",
+	"location": "310",
+	"avgtemp": "144"
+}, {
+	"date": "20140422",
+	"mintemp": "108",
+	"maxtemp": "169",
+	"location": "310",
+	"avgtemp": "139"
+}, {
+	"date": "20140423",
+	"mintemp": "103",
+	"maxtemp": "183",
+	"location": "310",
+	"avgtemp": "143"
+}, {
+	"date": "20140424",
+	"mintemp": "115",
+	"maxtemp": "169",
+	"location": "310",
+	"avgtemp": "142"
+}, {
+	"date": "20140425",
+	"mintemp": "114",
+	"maxtemp": "201",
+	"location": "310",
+	"avgtemp": "158"
+}, {
+	"date": "20140426",
+	"mintemp": "98",
+	"maxtemp": "150",
+	"location": "310",
+	"avgtemp": "124"
+}, {
+	"date": "20140427",
+	"mintemp": "96",
+	"maxtemp": "153",
+	"location": "310",
+	"avgtemp": "125"
+}, {
+	"date": "20140428",
+	"mintemp": "112",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "146"
+}, {
+	"date": "20140429",
+	"mintemp": "101",
+	"maxtemp": "151",
+	"location": "310",
+	"avgtemp": "126"
+}, {
+	"date": "20140430",
+	"mintemp": "86",
+	"maxtemp": "123",
+	"location": "310",
+	"avgtemp": "105"
+}, {
+	"date": "20140501",
+	"mintemp": "85",
+	"maxtemp": "172",
+	"location": "310",
+	"avgtemp": "129"
+}, {
+	"date": "20140502",
+	"mintemp": "88",
+	"maxtemp": "131",
+	"location": "310",
+	"avgtemp": "110"
+}, {
+	"date": "20140503",
+	"mintemp": "68",
+	"maxtemp": "128",
+	"location": "310",
+	"avgtemp": "98"
+}, {
+	"date": "20140504",
+	"mintemp": "52",
+	"maxtemp": "127",
+	"location": "310",
+	"avgtemp": "90"
+}, {
+	"date": "20140505",
+	"mintemp": "98",
+	"maxtemp": "188",
+	"location": "310",
+	"avgtemp": "143"
+}, {
+	"date": "20140506",
+	"mintemp": "105",
+	"maxtemp": "171",
+	"location": "310",
+	"avgtemp": "138"
+}, {
+	"date": "20140507",
+	"mintemp": "102",
+	"maxtemp": "148",
+	"location": "310",
+	"avgtemp": "125"
+}, {
+	"date": "20140508",
+	"mintemp": "111",
+	"maxtemp": "138",
+	"location": "310",
+	"avgtemp": "125"
+}, {
+	"date": "20140509",
+	"mintemp": "109",
+	"maxtemp": "155",
+	"location": "310",
+	"avgtemp": "132"
+}, {
+	"date": "20140510",
+	"mintemp": "94",
+	"maxtemp": "156",
+	"location": "310",
+	"avgtemp": "125"
+}, {
+	"date": "20140511",
+	"mintemp": "94",
+	"maxtemp": "129",
+	"location": "310",
+	"avgtemp": "112"
+}, {
+	"date": "20140512",
+	"mintemp": "104",
+	"maxtemp": "139",
+	"location": "310",
+	"avgtemp": "122"
+}, {
+	"date": "20140513",
+	"mintemp": "82",
+	"maxtemp": "141",
+	"location": "310",
+	"avgtemp": "112"
+}, {
+	"date": "20140514",
+	"mintemp": "85",
+	"maxtemp": "141",
+	"location": "310",
+	"avgtemp": "113"
+}, {
+	"date": "20140515",
+	"mintemp": "73",
+	"maxtemp": "146",
+	"location": "310",
+	"avgtemp": "110"
+}, {
+	"date": "20140516",
+	"mintemp": "85",
+	"maxtemp": "173",
+	"location": "310",
+	"avgtemp": "129"
+}, {
+	"date": "20140517",
+	"mintemp": "101",
+	"maxtemp": "195",
+	"location": "310",
+	"avgtemp": "148"
+}, {
+	"date": "20140518",
+	"mintemp": "116",
+	"maxtemp": "220",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140519",
+	"mintemp": "145",
+	"maxtemp": "242",
+	"location": "310",
+	"avgtemp": "194"
+}, {
+	"date": "20140520",
+	"mintemp": "146",
+	"maxtemp": "238",
+	"location": "310",
+	"avgtemp": "192"
+}, {
+	"date": "20140521",
+	"mintemp": "138",
+	"maxtemp": "188",
+	"location": "310",
+	"avgtemp": "163"
+}, {
+	"date": "20140522",
+	"mintemp": "143",
+	"maxtemp": "190",
+	"location": "310",
+	"avgtemp": "167"
+}, {
+	"date": "20140523",
+	"mintemp": "130",
+	"maxtemp": "191",
+	"location": "310",
+	"avgtemp": "161"
+}, {
+	"date": "20140524",
+	"mintemp": "120",
+	"maxtemp": "171",
+	"location": "310",
+	"avgtemp": "146"
+}, {
+	"date": "20140525",
+	"mintemp": "117",
+	"maxtemp": "194",
+	"location": "310",
+	"avgtemp": "156"
+}, {
+	"date": "20140526",
+	"mintemp": "138",
+	"maxtemp": "210",
+	"location": "310",
+	"avgtemp": "174"
+}, {
+	"date": "20140527",
+	"mintemp": "135",
+	"maxtemp": "170",
+	"location": "310",
+	"avgtemp": "153"
+}, {
+	"date": "20140528",
+	"mintemp": "129",
+	"maxtemp": "155",
+	"location": "310",
+	"avgtemp": "142"
+}, {
+	"date": "20140529",
+	"mintemp": "119",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "149"
+}, {
+	"date": "20140530",
+	"mintemp": "108",
+	"maxtemp": "172",
+	"location": "310",
+	"avgtemp": "140"
+}, {
+	"date": "20140531",
+	"mintemp": "116",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "148"
+}, {
+	"date": "20140601",
+	"mintemp": "119",
+	"maxtemp": "187",
+	"location": "310",
+	"avgtemp": "153"
+}, {
+	"date": "20140602",
+	"mintemp": "123",
+	"maxtemp": "183",
+	"location": "310",
+	"avgtemp": "153"
+}, {
+	"date": "20140603",
+	"mintemp": "139",
+	"maxtemp": "197",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140604",
+	"mintemp": "109",
+	"maxtemp": "168",
+	"location": "310",
+	"avgtemp": "139"
+}, {
+	"date": "20140605",
+	"mintemp": "97",
+	"maxtemp": "177",
+	"location": "310",
+	"avgtemp": "137"
+}, {
+	"date": "20140606",
+	"mintemp": "125",
+	"maxtemp": "228",
+	"location": "310",
+	"avgtemp": "177"
+}, {
+	"date": "20140607",
+	"mintemp": "160",
+	"maxtemp": "254",
+	"location": "310",
+	"avgtemp": "207"
+}, {
+	"date": "20140608",
+	"mintemp": "162",
+	"maxtemp": "243",
+	"location": "310",
+	"avgtemp": "203"
+}, {
+	"date": "20140609",
+	"mintemp": "180",
+	"maxtemp": "248",
+	"location": "310",
+	"avgtemp": "214"
+}, {
+	"date": "20140610",
+	"mintemp": "152",
+	"maxtemp": "223",
+	"location": "310",
+	"avgtemp": "188"
+}, {
+	"date": "20140611",
+	"mintemp": "147",
+	"maxtemp": "196",
+	"location": "310",
+	"avgtemp": "172"
+}, {
+	"date": "20140612",
+	"mintemp": "133",
+	"maxtemp": "216",
+	"location": "310",
+	"avgtemp": "175"
+}, {
+	"date": "20140613",
+	"mintemp": "147",
+	"maxtemp": "221",
+	"location": "310",
+	"avgtemp": "184"
+}, {
+	"date": "20140614",
+	"mintemp": "142",
+	"maxtemp": "186",
+	"location": "310",
+	"avgtemp": "164"
+}, {
+	"date": "20140615",
+	"mintemp": "140",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "160"
+}, {
+	"date": "20140616",
+	"mintemp": "140",
+	"maxtemp": "171",
+	"location": "310",
+	"avgtemp": "156"
+}, {
+	"date": "20140617",
+	"mintemp": "137",
+	"maxtemp": "177",
+	"location": "310",
+	"avgtemp": "157"
+}, {
+	"date": "20140618",
+	"mintemp": "123",
+	"maxtemp": "194",
+	"location": "310",
+	"avgtemp": "159"
+}, {
+	"date": "20140619",
+	"mintemp": "133",
+	"maxtemp": "174",
+	"location": "310",
+	"avgtemp": "154"
+}, {
+	"date": "20140620",
+	"mintemp": "123",
+	"maxtemp": "183",
+	"location": "310",
+	"avgtemp": "153"
+}, {
+	"date": "20140621",
+	"mintemp": "121",
+	"maxtemp": "202",
+	"location": "310",
+	"avgtemp": "162"
+}, {
+	"date": "20140622",
+	"mintemp": "132",
+	"maxtemp": "203",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140623",
+	"mintemp": "127",
+	"maxtemp": "214",
+	"location": "310",
+	"avgtemp": "171"
+}, {
+	"date": "20140624",
+	"mintemp": "140",
+	"maxtemp": "211",
+	"location": "310",
+	"avgtemp": "176"
+}, {
+	"date": "20140625",
+	"mintemp": "130",
+	"maxtemp": "184",
+	"location": "310",
+	"avgtemp": "157"
+}, {
+	"date": "20140626",
+	"mintemp": "135",
+	"maxtemp": "207",
+	"location": "310",
+	"avgtemp": "171"
+}, {
+	"date": "20140627",
+	"mintemp": "156",
+	"maxtemp": "193",
+	"location": "310",
+	"avgtemp": "175"
+}, {
+	"date": "20140628",
+	"mintemp": "144",
+	"maxtemp": "191",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140629",
+	"mintemp": "139",
+	"maxtemp": "182",
+	"location": "310",
+	"avgtemp": "161"
+}, {
+	"date": "20140630",
+	"mintemp": "132",
+	"maxtemp": "187",
+	"location": "310",
+	"avgtemp": "160"
+}, {
+	"date": "20140701",
+	"mintemp": "121",
+	"maxtemp": "194",
+	"location": "310",
+	"avgtemp": "158"
+}, {
+	"date": "20140702",
+	"mintemp": "125",
+	"maxtemp": "204",
+	"location": "310",
+	"avgtemp": "165"
+}, {
+	"date": "20140703",
+	"mintemp": "159",
+	"maxtemp": "237",
+	"location": "310",
+	"avgtemp": "198"
+}, {
+	"date": "20140704",
+	"mintemp": "172",
+	"maxtemp": "259",
+	"location": "310",
+	"avgtemp": "216"
+}, {
+	"date": "20140705",
+	"mintemp": "171",
+	"maxtemp": "224",
+	"location": "310",
+	"avgtemp": "198"
+}, {
+	"date": "20140706",
+	"mintemp": "142",
+	"maxtemp": "219",
+	"location": "310",
+	"avgtemp": "181"
+}, {
+	"date": "20140707",
+	"mintemp": "133",
+	"maxtemp": "210",
+	"location": "310",
+	"avgtemp": "172"
+}, {
+	"date": "20140708",
+	"mintemp": "145",
+	"maxtemp": "172",
+	"location": "310",
+	"avgtemp": "159"
+}, {
+	"date": "20140709",
+	"mintemp": "146",
+	"maxtemp": "163",
+	"location": "310",
+	"avgtemp": "155"
+}, {
+	"date": "20140710",
+	"mintemp": "162",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "171"
+}, {
+	"date": "20140711",
+	"mintemp": "159",
+	"maxtemp": "183",
+	"location": "310",
+	"avgtemp": "171"
+}, {
+	"date": "20140712",
+	"mintemp": "163",
+	"maxtemp": "186",
+	"location": "310",
+	"avgtemp": "175"
+}, {
+	"date": "20140713",
+	"mintemp": "160",
+	"maxtemp": "199",
+	"location": "310",
+	"avgtemp": "180"
+}, {
+	"date": "20140714",
+	"mintemp": "153",
+	"maxtemp": "194",
+	"location": "310",
+	"avgtemp": "174"
+}, {
+	"date": "20140715",
+	"mintemp": "148",
+	"maxtemp": "214",
+	"location": "310",
+	"avgtemp": "181"
+}, {
+	"date": "20140716",
+	"mintemp": "153",
+	"maxtemp": "243",
+	"location": "310",
+	"avgtemp": "198"
+}, {
+	"date": "20140717",
+	"mintemp": "174",
+	"maxtemp": "267",
+	"location": "310",
+	"avgtemp": "221"
+}, {
+	"date": "20140718",
+	"mintemp": "201",
+	"maxtemp": "303",
+	"location": "310",
+	"avgtemp": "252"
+}, {
+	"date": "20140719",
+	"mintemp": "186",
+	"maxtemp": "284",
+	"location": "310",
+	"avgtemp": "235"
+}, {
+	"date": "20140720",
+	"mintemp": "182",
+	"maxtemp": "229",
+	"location": "310",
+	"avgtemp": "206"
+}, {
+	"date": "20140721",
+	"mintemp": "177",
+	"maxtemp": "193",
+	"location": "310",
+	"avgtemp": "185"
+}, {
+	"date": "20140722",
+	"mintemp": "177",
+	"maxtemp": "243",
+	"location": "310",
+	"avgtemp": "210"
+}, {
+	"date": "20140723",
+	"mintemp": "191",
+	"maxtemp": "278",
+	"location": "310",
+	"avgtemp": "235"
+}, {
+	"date": "20140724",
+	"mintemp": "185",
+	"maxtemp": "269",
+	"location": "310",
+	"avgtemp": "227"
+}, {
+	"date": "20140725",
+	"mintemp": "179",
+	"maxtemp": "242",
+	"location": "310",
+	"avgtemp": "211"
+}, {
+	"date": "20140726",
+	"mintemp": "172",
+	"maxtemp": "219",
+	"location": "310",
+	"avgtemp": "196"
+}, {
+	"date": "20140727",
+	"mintemp": "177",
+	"maxtemp": "268",
+	"location": "310",
+	"avgtemp": "223"
+}, {
+	"date": "20140728",
+	"mintemp": "146",
+	"maxtemp": "208",
+	"location": "310",
+	"avgtemp": "177"
+}, {
+	"date": "20140729",
+	"mintemp": "173",
+	"maxtemp": "230",
+	"location": "310",
+	"avgtemp": "202"
+}, {
+	"date": "20140730",
+	"mintemp": "163",
+	"maxtemp": "209",
+	"location": "310",
+	"avgtemp": "186"
+}, {
+	"date": "20140731",
+	"mintemp": "167",
+	"maxtemp": "246",
+	"location": "310",
+	"avgtemp": "207"
+}, {
+	"date": "20140801",
+	"mintemp": "150",
+	"maxtemp": "238",
+	"location": "310",
+	"avgtemp": "194"
+}, {
+	"date": "20140802",
+	"mintemp": "179",
+	"maxtemp": "249",
+	"location": "310",
+	"avgtemp": "214"
+}, {
+	"date": "20140803",
+	"mintemp": "163",
+	"maxtemp": "223",
+	"location": "310",
+	"avgtemp": "193"
+}, {
+	"date": "20140804",
+	"mintemp": "152",
+	"maxtemp": "214",
+	"location": "310",
+	"avgtemp": "183"
+}, {
+	"date": "20140805",
+	"mintemp": "155",
+	"maxtemp": "229",
+	"location": "310",
+	"avgtemp": "192"
+}, {
+	"date": "20140806",
+	"mintemp": "171",
+	"maxtemp": "203",
+	"location": "310",
+	"avgtemp": "187"
+}, {
+	"date": "20140807",
+	"mintemp": "161",
+	"maxtemp": "241",
+	"location": "310",
+	"avgtemp": "201"
+}, {
+	"date": "20140808",
+	"mintemp": "180",
+	"maxtemp": "218",
+	"location": "310",
+	"avgtemp": "199"
+}, {
+	"date": "20140809",
+	"mintemp": "162",
+	"maxtemp": "215",
+	"location": "310",
+	"avgtemp": "189"
+}, {
+	"date": "20140810",
+	"mintemp": "162",
+	"maxtemp": "214",
+	"location": "310",
+	"avgtemp": "188"
+}, {
+	"date": "20140811",
+	"mintemp": "148",
+	"maxtemp": "208",
+	"location": "310",
+	"avgtemp": "178"
+}, {
+	"date": "20140812",
+	"mintemp": "137",
+	"maxtemp": "194",
+	"location": "310",
+	"avgtemp": "166"
+}, {
+	"date": "20140813",
+	"mintemp": "140",
+	"maxtemp": "195",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140814",
+	"mintemp": "151",
+	"maxtemp": "200",
+	"location": "310",
+	"avgtemp": "176"
+}, {
+	"date": "20140815",
+	"mintemp": "142",
+	"maxtemp": "193",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140816",
+	"mintemp": "153",
+	"maxtemp": "187",
+	"location": "310",
+	"avgtemp": "170"
+}, {
+	"date": "20140817",
+	"mintemp": "148",
+	"maxtemp": "185",
+	"location": "310",
+	"avgtemp": "167"
+}, {
+	"date": "20140818",
+	"mintemp": "135",
+	"maxtemp": "177",
+	"location": "310",
+	"avgtemp": "156"
+}, {
+	"date": "20140819",
+	"mintemp": "117",
+	"maxtemp": "167",
+	"location": "310",
+	"avgtemp": "142"
+}, {
+	"date": "20140820",
+	"mintemp": "112",
+	"maxtemp": "175",
+	"location": "310",
+	"avgtemp": "144"
+}, {
+	"date": "20140821",
+	"mintemp": "120",
+	"maxtemp": "174",
+	"location": "310",
+	"avgtemp": "147"
+}, {
+	"date": "20140822",
+	"mintemp": "128",
+	"maxtemp": "173",
+	"location": "310",
+	"avgtemp": "151"
+}, {
+	"date": "20140823",
+	"mintemp": "114",
+	"maxtemp": "170",
+	"location": "310",
+	"avgtemp": "142"
+}, {
+	"date": "20140824",
+	"mintemp": "114",
+	"maxtemp": "171",
+	"location": "310",
+	"avgtemp": "143"
+}, {
+	"date": "20140825",
+	"mintemp": "135",
+	"maxtemp": "165",
+	"location": "310",
+	"avgtemp": "150"
+}, {
+	"date": "20140826",
+	"mintemp": "131",
+	"maxtemp": "160",
+	"location": "310",
+	"avgtemp": "146"
+}, {
+	"date": "20140827",
+	"mintemp": "112",
+	"maxtemp": "205",
+	"location": "310",
+	"avgtemp": "159"
+}, {
+	"date": "20140828",
+	"mintemp": "155",
+	"maxtemp": "201",
+	"location": "310",
+	"avgtemp": "178"
+}, {
+	"date": "20140829",
+	"mintemp": "144",
+	"maxtemp": "204",
+	"location": "310",
+	"avgtemp": "174"
+}, {
+	"date": "20140830",
+	"mintemp": "154",
+	"maxtemp": "181",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20140831",
+	"mintemp": "139",
+	"maxtemp": "184",
+	"location": "310",
+	"avgtemp": "162"
+}, {
+	"date": "20140901",
+	"mintemp": "139",
+	"maxtemp": "216",
+	"location": "310",
+	"avgtemp": "178"
+}, {
+	"date": "20140902",
+	"mintemp": "160",
+	"maxtemp": "220",
+	"location": "310",
+	"avgtemp": "190"
+}, {
+	"date": "20140903",
+	"mintemp": "151",
+	"maxtemp": "214",
+	"location": "310",
+	"avgtemp": "183"
+}, {
+	"date": "20140904",
+	"mintemp": "146",
+	"maxtemp": "228",
+	"location": "310",
+	"avgtemp": "187"
+}, {
+	"date": "20140905",
+	"mintemp": "177",
+	"maxtemp": "221",
+	"location": "310",
+	"avgtemp": "199"
+}, {
+	"date": "20140906",
+	"mintemp": "154",
+	"maxtemp": "194",
+	"location": "310",
+	"avgtemp": "174"
+}, {
+	"date": "20140907",
+	"mintemp": "151",
+	"maxtemp": "213",
+	"location": "310",
+	"avgtemp": "182"
+}, {
+	"date": "20140908",
+	"mintemp": "141",
+	"maxtemp": "201",
+	"location": "310",
+	"avgtemp": "171"
+}, {
+	"date": "20140909",
+	"mintemp": "137",
+	"maxtemp": "176",
+	"location": "310",
+	"avgtemp": "157"
+}, {
+	"date": "20140910",
+	"mintemp": "136",
+	"maxtemp": "188",
+	"location": "310",
+	"avgtemp": "162"
+}, {
+	"date": "20140911",
+	"mintemp": "126",
+	"maxtemp": "199",
+	"location": "310",
+	"avgtemp": "163"
+}, {
+	"date": "20140912",
+	"mintemp": "132",
+	"maxtemp": "209",
+	"location": "310",
+	"avgtemp": "171"
+}, {
+	"date": "20140913",
+	"mintemp": "143",
+	"maxtemp": "205",
+	"location": "310",
+	"avgtemp": "174"
+}, {
+	"date": "20140914",
+	"mintemp": "145",
+	"maxtemp": "202",
+	"location": "310",
+	"avgtemp": "174"
+}, {
+	"date": "20140915",
+	"mintemp": "131",
+	"maxtemp": "226",
+	"location": "310",
+	"avgtemp": "179"
+}, {
+	"date": "20140916",
+	"mintemp": "138",
+	"maxtemp": "235",
+	"location": "310",
+	"avgtemp": "187"
+}, {
+	"date": "20140917",
+	"mintemp": "147",
+	"maxtemp": "248",
+	"location": "310",
+	"avgtemp": "198"
+}, {
+	"date": "20140918",
+	"mintemp": "160",
+	"maxtemp": "255",
+	"location": "310",
+	"avgtemp": "208"
+}, {
+	"date": "20140919",
+	"mintemp": "167",
+	"maxtemp": "256",
+	"location": "310",
+	"avgtemp": "212"
+}, {
+	"date": "20140920",
+	"mintemp": "172",
+	"maxtemp": "208",
+	"location": "310",
+	"avgtemp": "190"
+}, {
+	"date": "20140921",
+	"mintemp": "147",
+	"maxtemp": "185",
+	"location": "310",
+	"avgtemp": "166"
+}, {
+	"date": "20140922",
+	"mintemp": "124",
+	"maxtemp": "175",
+	"location": "310",
+	"avgtemp": "150"
+}, {
+	"date": "20140923",
+	"mintemp": "122",
+	"maxtemp": "184",
+	"location": "310",
+	"avgtemp": "153"
+}, {
+	"date": "20140924",
+	"mintemp": "132",
+	"maxtemp": "169",
+	"location": "310",
+	"avgtemp": "151"
+}, {
+	"date": "20140925",
+	"mintemp": "133",
+	"maxtemp": "169",
+	"location": "310",
+	"avgtemp": "151"
+}, {
+	"date": "20140926",
+	"mintemp": "139",
+	"maxtemp": "187",
+	"location": "310",
+	"avgtemp": "163"
+}, {
+	"date": "20140927",
+	"mintemp": "149",
+	"maxtemp": "206",
+	"location": "310",
+	"avgtemp": "178"
+}, {
+	"date": "20140928",
+	"mintemp": "154",
+	"maxtemp": "215",
+	"location": "310",
+	"avgtemp": "185"
+}, {
+	"date": "20140929",
+	"mintemp": "155",
+	"maxtemp": "190",
+	"location": "310",
+	"avgtemp": "173"
+}, {
+	"date": "20140930",
+	"mintemp": "152",
+	"maxtemp": "192",
+	"location": "310",
+	"avgtemp": "172"
+}, {
+	"date": "20141001",
+	"mintemp": "146",
+	"maxtemp": "222",
+	"location": "310",
+	"avgtemp": "184"
+}, {
+	"date": "20141002",
+	"mintemp": "141",
+	"maxtemp": "195",
+	"location": "310",
+	"avgtemp": "168"
+}, {
+	"date": "20141003",
+	"mintemp": "130",
+	"maxtemp": "213",
+	"location": "310",
+	"avgtemp": "172"
+}, {
+	"date": "20141004",
+	"mintemp": "127",
+	"maxtemp": "204",
+	"location": "310",
+	"avgtemp": "166"
+}, {
+	"date": "20141005",
+	"mintemp": "119",
+	"maxtemp": "167",
+	"location": "310",
+	"avgtemp": "143"
+}, {
+	"date": "20141006",
+	"mintemp": "122",
+	"maxtemp": "150",
+	"location": "310",
+	"avgtemp": "136"
+}, {
+	"date": "20141007",
+	"mintemp": "101",
+	"maxtemp": "146",
+	"location": "310",
+	"avgtemp": "124"
+}, {
+	"date": "20141008",
+	"mintemp": "110",
+	"maxtemp": "174",
+	"location": "310",
+	"avgtemp": "142"
+}, {
+	"date": "20141009",
+	"mintemp": "136",
+	"maxtemp": "183",
+	"location": "310",
+	"avgtemp": "160"
+}, {
+	"date": "20141010",
+	"mintemp": "125",
+	"maxtemp": "181",
+	"location": "310",
+	"avgtemp": "153"
+}, {
+	"date": "20141011",
+	"mintemp": "126",
+	"maxtemp": "168",
+	"location": "310",
+	"avgtemp": "147"
+}, {
+	"date": "20141012",
+	"mintemp": "120",
+	"maxtemp": "167",
+	"location": "310",
+	"avgtemp": "144"
+}, {
+	"date": "20141013",
+	"mintemp": "134",
+	"maxtemp": "161",
+	"location": "310",
+	"avgtemp": "148"
+}, {
+	"date": "20141014",
+	"mintemp": "125",
+	"maxtemp": "144",
+	"location": "310",
+	"avgtemp": "135"
+}, {
+	"date": "20141015",
+	"mintemp": "124",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "152"
+}, {
+	"date": "20141016",
+	"mintemp": "138",
+	"maxtemp": "174",
+	"location": "310",
+	"avgtemp": "156"
+}, {
+	"date": "20141017",
+	"mintemp": "136",
+	"maxtemp": "186",
+	"location": "310",
+	"avgtemp": "161"
+}, {
+	"date": "20141018",
+	"mintemp": "147",
+	"maxtemp": "210",
+	"location": "310",
+	"avgtemp": "179"
+}, {
+	"date": "20141019",
+	"mintemp": "152",
+	"maxtemp": "197",
+	"location": "310",
+	"avgtemp": "175"
+}, {
+	"date": "20141020",
+	"mintemp": "132",
+	"maxtemp": "162",
+	"location": "310",
+	"avgtemp": "147"
+}, {
+	"date": "20141021",
+	"mintemp": "104",
+	"maxtemp": "157",
+	"location": "310",
+	"avgtemp": "131"
+}, {
+	"date": "20141022",
+	"mintemp": "101",
+	"maxtemp": "135",
+	"location": "310",
+	"avgtemp": "118"
+}, {
+	"date": "20141023",
+	"mintemp": "113",
+	"maxtemp": "147",
+	"location": "310",
+	"avgtemp": "130"
+}, {
+	"date": "20141024",
+	"mintemp": "116",
+	"maxtemp": "132",
+	"location": "310",
+	"avgtemp": "124"
+}, {
+	"date": "20141025",
+	"mintemp": "121",
+	"maxtemp": "150",
+	"location": "310",
+	"avgtemp": "136"
+}, {
+	"date": "20141026",
+	"mintemp": "125",
+	"maxtemp": "161",
+	"location": "310",
+	"avgtemp": "143"
+}, {
+	"date": "20141027",
+	"mintemp": "117",
+	"maxtemp": "165",
+	"location": "310",
+	"avgtemp": "141"
+}, {
+	"date": "20141028",
+	"mintemp": "93",
+	"maxtemp": "119",
+	"location": "310",
+	"avgtemp": "106"
+}, {
+	"date": "20141029",
+	"mintemp": "97",
+	"maxtemp": "129",
+	"location": "310",
+	"avgtemp": "113"
+}, {
+	"date": "20141030",
+	"mintemp": "117",
+	"maxtemp": "163",
+	"location": "310",
+	"avgtemp": "140"
+}, {
+	"date": "20141031",
+	"mintemp": "129",
+	"maxtemp": "182",
+	"location": "310",
+	"avgtemp": "156"
+}, {
+	"date": "20141101",
+	"mintemp": "138",
+	"maxtemp": "179",
+	"location": "310",
+	"avgtemp": "159"
+}, {
+	"date": "20141102",
+	"mintemp": "124",
+	"maxtemp": "160",
+	"location": "310",
+	"avgtemp": "142"
+}, {
+	"date": "20141103",
+	"mintemp": "103",
+	"maxtemp": "144",
+	"location": "310",
+	"avgtemp": "124"
+}, {
+	"date": "20141104",
+	"mintemp": "90",
+	"maxtemp": "111",
+	"location": "310",
+	"avgtemp": "101"
+}, {
+	"date": "20141105",
+	"mintemp": "67",
+	"maxtemp": "98",
+	"location": "310",
+	"avgtemp": "83"
+}, {
+	"date": "20141106",
+	"mintemp": "39",
+	"maxtemp": "112",
+	"location": "310",
+	"avgtemp": "76"
+}, {
+	"date": "20141107",
+	"mintemp": "82",
+	"maxtemp": "123",
+	"location": "310",
+	"avgtemp": "103"
+}, {
+	"date": "20141108",
+	"mintemp": "89",
+	"maxtemp": "125",
+	"location": "310",
+	"avgtemp": "107"
+}, {
+	"date": "20141109",
+	"mintemp": "97",
+	"maxtemp": "127",
+	"location": "310",
+	"avgtemp": "112"
+}, {
+	"date": "20141110",
+	"mintemp": "83",
+	"maxtemp": "125",
+	"location": "310",
+	"avgtemp": "104"
+}, {
+	"date": "20141111",
+	"mintemp": "80",
+	"maxtemp": "133",
+	"location": "310",
+	"avgtemp": "107"
+}, {
+	"date": "20141112",
+	"mintemp": "96",
+	"maxtemp": "131",
+	"location": "310",
+	"avgtemp": "114"
+}, {
+	"date": "20141113",
+	"mintemp": "84",
+	"maxtemp": "131",
+	"location": "310",
+	"avgtemp": "108"
+}, {
+	"date": "20141114",
+	"mintemp": "89",
+	"maxtemp": "112",
+	"location": "310",
+	"avgtemp": "101"
+}, {
+	"date": "20141115",
+	"mintemp": "96",
+	"maxtemp": "112",
+	"location": "310",
+	"avgtemp": "104"
+}, {
+	"date": "20141116",
+	"mintemp": "90",
+	"maxtemp": "102",
+	"location": "310",
+	"avgtemp": "96"
+}, {
+	"date": "20141117",
+	"mintemp": "90",
+	"maxtemp": "114",
+	"location": "310",
+	"avgtemp": "102"
+}, {
+	"date": "20141118",
+	"mintemp": "75",
+	"maxtemp": "100",
+	"location": "310",
+	"avgtemp": "88"
+}, {
+	"date": "20141119",
+	"mintemp": "83",
+	"maxtemp": "102",
+	"location": "310",
+	"avgtemp": "93"
+}, {
+	"date": "20141120",
+	"mintemp": "60",
+	"maxtemp": "89",
+	"location": "310",
+	"avgtemp": "75"
+}, {
+	"date": "20141121",
+	"mintemp": "44",
+	"maxtemp": "93",
+	"location": "310",
+	"avgtemp": "69"
+}, {
+	"date": "20141122",
+	"mintemp": "79",
+	"maxtemp": "123",
+	"location": "310",
+	"avgtemp": "101"
+}, {
+	"date": "20141123",
+	"mintemp": "92",
+	"maxtemp": "133",
+	"location": "310",
+	"avgtemp": "113"
+}, {
+	"date": "20141124",
+	"mintemp": "47",
+	"maxtemp": "108",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20141125",
+	"mintemp": "39",
+	"maxtemp": "88",
+	"location": "310",
+	"avgtemp": "64"
+}, {
+	"date": "20141126",
+	"mintemp": "60",
+	"maxtemp": "94",
+	"location": "310",
+	"avgtemp": "77"
+}, {
+	"date": "20141127",
+	"mintemp": "93",
+	"maxtemp": "106",
+	"location": "310",
+	"avgtemp": "100"
+}, {
+	"date": "20141128",
+	"mintemp": "70",
+	"maxtemp": "106",
+	"location": "310",
+	"avgtemp": "88"
+}, {
+	"date": "20141129",
+	"mintemp": "45",
+	"maxtemp": "78",
+	"location": "310",
+	"avgtemp": "62"
+}, {
+	"date": "20141130",
+	"mintemp": "25",
+	"maxtemp": "52",
+	"location": "310",
+	"avgtemp": "39"
+}, {
+	"date": "20141201",
+	"mintemp": "22",
+	"maxtemp": "37",
+	"location": "310",
+	"avgtemp": "30"
+}, {
+	"date": "20141202",
+	"mintemp": "22",
+	"maxtemp": "37",
+	"location": "310",
+	"avgtemp": "30"
+}, {
+	"date": "20141203",
+	"mintemp": "-13",
+	"maxtemp": "37",
+	"location": "310",
+	"avgtemp": "12"
+}, {
+	"date": "20141204",
+	"mintemp": "-14",
+	"maxtemp": "33",
+	"location": "310",
+	"avgtemp": "10"
+}, {
+	"date": "20141205",
+	"mintemp": "29",
+	"maxtemp": "78",
+	"location": "310",
+	"avgtemp": "54"
+}, {
+	"date": "20141206",
+	"mintemp": "50",
+	"maxtemp": "93",
+	"location": "310",
+	"avgtemp": "72"
+}, {
+	"date": "20141207",
+	"mintemp": "33",
+	"maxtemp": "88",
+	"location": "310",
+	"avgtemp": "61"
+}, {
+	"date": "20141208",
+	"mintemp": "31",
+	"maxtemp": "73",
+	"location": "310",
+	"avgtemp": "52"
+}, {
+	"date": "20141209",
+	"mintemp": "46",
+	"maxtemp": "79",
+	"location": "310",
+	"avgtemp": "63"
+}, {
+	"date": "20141210",
+	"mintemp": "49",
+	"maxtemp": "95",
+	"location": "310",
+	"avgtemp": "72"
+}, {
+	"date": "20141211",
+	"mintemp": "52",
+	"maxtemp": "87",
+	"location": "310",
+	"avgtemp": "70"
+}, {
+	"date": "20141212",
+	"mintemp": "65",
+	"maxtemp": "94",
+	"location": "310",
+	"avgtemp": "80"
+}, {
+	"date": "20141213",
+	"mintemp": "38",
+	"maxtemp": "69",
+	"location": "310",
+	"avgtemp": "54"
+}, {
+	"date": "20141214",
+	"mintemp": "26",
+	"maxtemp": "61",
+	"location": "310",
+	"avgtemp": "44"
+}, {
+	"date": "20141215",
+	"mintemp": "37",
+	"maxtemp": "81",
+	"location": "310",
+	"avgtemp": "59"
+}, {
+	"date": "20141216",
+	"mintemp": "49",
+	"maxtemp": "81",
+	"location": "310",
+	"avgtemp": "65"
+}, {
+	"date": "20141217",
+	"mintemp": "50",
+	"maxtemp": "108",
+	"location": "310",
+	"avgtemp": "79"
+}, {
+	"date": "20141218",
+	"mintemp": "89",
+	"maxtemp": "120",
+	"location": "310",
+	"avgtemp": "105"
+}, {
+	"date": "20141219",
+	"mintemp": "82",
+	"maxtemp": "120",
+	"location": "310",
+	"avgtemp": "101"
+}, {
+	"date": "20141220",
+	"mintemp": "78",
+	"maxtemp": "91",
+	"location": "310",
+	"avgtemp": "85"
+}, {
+	"date": "20141221",
+	"mintemp": "55",
+	"maxtemp": "101",
+	"location": "310",
+	"avgtemp": "78"
+}, {
+	"date": "20141222",
+	"mintemp": "89",
+	"maxtemp": "118",
+	"location": "310",
+	"avgtemp": "104"
+}, {
+	"date": "20141223",
+	"mintemp": "90",
+	"maxtemp": "116",
+	"location": "310",
+	"avgtemp": "103"
+}, {
+	"date": "20141224",
+	"mintemp": "75",
+	"maxtemp": "98",
+	"location": "310",
+	"avgtemp": "87"
+}, {
+	"date": "20141225",
+	"mintemp": "38",
+	"maxtemp": "83",
+	"location": "310",
+	"avgtemp": "61"
+}, {
+	"date": "20141226",
+	"mintemp": "14",
+	"maxtemp": "62",
+	"location": "310",
+	"avgtemp": "38"
+}, {
+	"date": "20141227",
+	"mintemp": "7",
+	"maxtemp": "34",
+	"location": "310",
+	"avgtemp": "21"
+}, {
+	"date": "20141228",
+	"mintemp": "-13",
+	"maxtemp": "25",
+	"location": "310",
+	"avgtemp": "6"
+}, {
+	"date": "20141229",
+	"mintemp": "24",
+	"maxtemp": "75",
+	"location": "310",
+	"avgtemp": "50"
+}, {
+	"date": "20141230",
+	"mintemp": "39",
+	"maxtemp": "70",
+	"location": "310",
+	"avgtemp": "55"
+}, {
+	"date": "20141231",
+	"mintemp": "32",
+	"maxtemp": "68",
+	"location": "310",
+	"avgtemp": "50"
+}]
