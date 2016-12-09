@@ -70,7 +70,6 @@ d3.json("dataweek6.json", function(data) {
 
  	legendSpace = height/10; // spacing for the legend
 
-  counter = 0
   // Loop through each symbol / key
   dataNest.forEach(function(d,i) {
       svg.append("path")
@@ -79,7 +78,6 @@ d3.json("dataweek6.json", function(data) {
 						return d.color = color(d.key); })
 				.attr("id", 'tag'+d.key.replace(/\s+/g, '')) // assign ID
 				.attr("d", line(d.values))
-      counter = counter + 1
 
 			// Add the Legend
       svg.append("text")
