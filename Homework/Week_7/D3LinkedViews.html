@@ -1,0 +1,32 @@
+<!--Jelle Mul
+11402148 -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>D3 Linked Views</title>
+    <link rel="stylesheet" type="text/css" href="D3LinkedViews.css"/>
+  </head>
+  <body>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script  type="text/javascript" src="datamaps.world.hires.min.js"></script>
+    <div id="container">
+    </div>
+    <script src="D3LinkedViews.js"></script>
+    <p id= "bron">bron: https://www.numbeo.com/quality-of-life/rankings_by_country.jsp</p>
+    <div id="info">
+      <p>
+        De eerste visualisatie laat de wereldkaart zien met daarbij de landen waarvan een quality of life index bekend is een kleur hebben. De gradatie van deze kleuren is linear
+        en de kleurkeuze is gemaakt met behulp van Color brewer Wanneer over deze landen wordt gehoverd verschijnt er een teksvak met daarin de preciese rank van het land. Wanneer
+        op een land wordt geklikt wordt deze zwart, en zou er een link naar de 2de visualisatie moeten zijn, helaas is dit echter niet werkend.
+      </p>
+      <p>
+        De tweede visualisatie is een parallel coordinates graph, dit omdat de data niet gecorreleerd is met elkaar. Iedere lijn vertegenwoordigd een land, waarbij de verticale assen
+        de verschillende indexen laten zijn. De bedoeling is dat wanneer op een land wordt geklikt in de wereldkaart, de lijn van dit land in de 2de visualisatie een andere kleur zou krijgen.
+        Dit zou mogelijk moet zijn met de 3 letter code van dit land. In de tweede visualisatie is het wel mogelijk om de verticale assen van plaats te verwisselen, en om op de as een gedeelte te
+        selecteren waarna alleen de lijnen die geselecteerd zijn blauw blijven. Op deze manier kan er toch nog naar trends in de data worden gezocht.
+      </p>
+    </div>
+  </body>
+</html>
