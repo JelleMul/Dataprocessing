@@ -1,3 +1,6 @@
+/* Jelle Mul
+11402148 */
+
 #container {
   margin: auto;
   position: relative;
@@ -39,11 +42,6 @@ svg {
 .foreground path {
   fill: none;
   stroke: steelblue;
-}
-
-.highlights path {
-  fill: none;
-  stroke: red;
 }
 
 .brush .extent {

@@ -1,3 +1,6 @@
+// Jelle Mul
+// 11402148
+
 var country_codes = [
   ["af", "AFG", "Afghanistan"],
   ["ax", "ALA", "Åland Islands"],
